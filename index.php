@@ -9,13 +9,13 @@
                   <div class="banner-4">
                      <div class="banner-4-content">
                         <h4 class="banner-4-title cd-headline clip is-full-width">
-                           SEO marketing <br>
+                        Empowering Brands    <br>
                            <span class="cd-words-wrapper">
-                              <b class="is-visible">agency</b>
-                              <b>analysis</b>
-                              <b>value</b>
+                              <b class="is-visible">in  </b>
+                              <b>the </b>
+                              <b>Digital Age </b>
                            </span>
-                           in UK
+                          
                         </h4>
                         <p>All in one SEO for your business to give real impact <br> consultancy and analysis.!</p>
                         <div class="banner-4-btn mb-30">
