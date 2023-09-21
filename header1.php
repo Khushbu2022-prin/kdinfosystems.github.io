@@ -117,43 +117,43 @@
                                                 <ul>
                                                    <li>
                                                       <a href="landing-page.php">
-                                                         <span> <img src="assets/img/header-icon/keyword.png" alt=""> </span>
+                                                         <span> <img src="assets/img/home/Landing Page.png" alt=""> </span>
                                                          Landing Page
                                                       </a>
                                                    </li>
                                                    <li>
                                                       <a href="static-website.php">
-                                                         <span> <img src="assets/img/header-icon/audit.png" alt=""> </span>
+                                                         <span> <img src="assets/img/home/Static Website.png" alt=""> </span>
                                                          Static Website
                                                       </a>
                                                    </li>
                                                    <li>
                                                       <a href="wordpress-website.php">
-                                                         <span> <img src="assets/img/header-icon/building.png" alt=""> </span>
+                                                         <span> <img src="assets/img/home/wordpress.png" alt=""> </span>
                                                          Wordpress Website
                                                       </a>
                                                    </li>
                                                    <li>
                                                       <a href="Ecommerce.php">
-                                                         <span> <img src="assets/img/header-icon/media.png" alt=""> </span>
+                                                         <span> <img src="assets/img/home/ecommerce.png" alt=""> </span>
                                                          Ecommerce
                                                       </a>
                                                    </li>
                                                    <li>
                                                       <a href="email-template-signature.php">
-                                                         <span> <img src="assets/img/header-icon/analysis.png" alt=""> </span>
+                                                         <span> <img src="assets/img/home/email template.png" alt=""> </span>
                                                          Email Template/Signature
                                                       </a>
                                                    </li>
                                                    <li>
                                                       <a href="payment-gateway.php">
-                                                         <span> <img src="assets/img/header-icon/analysis.png" alt=""> </span>
+                                                         <span> <img src="assets/img/home/Payment Gateway.png" alt=""> </span>
                                                          Payment Gateway
                                                       </a>
                                                    </li>
                                                    <li>
                                                       <a href="api-integration.php">
-                                                         <span> <img src="assets/img/header-icon/analysis.png" alt=""> </span>
+                                                         <span> <img src="assets/img/home/api integration.png" alt=""> </span>
                                                          API Integration
                                                       </a>
                                                    </li>
@@ -167,6 +167,13 @@
                                  <li>
                                     <a href="pricing.php">Pricing</a>
                                   
+                                 </li>
+                                 <li class="has-dropdown">
+                                    <a href="#">Partner Programs</a>
+                                    <ul class="tp-submenu submenu">
+                                       <li><a href="become-an-affiliate.php">Become an Affiliate </a></li>
+                                       
+                                    </ul>
                                  </li>
                                  <li>
                                     <a href="#">Blogs</a>
