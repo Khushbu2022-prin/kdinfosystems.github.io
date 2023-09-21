@@ -272,7 +272,7 @@
         if ($styles[0].styleSheet) {
             $styles[0].styleSheet.cssText = css;
         } else {
-            $styles.php(css);
+            $styles.html(css);
         }
     }
 
