@@ -82,6 +82,25 @@
                            <a href="#"><i class="fa-brands fa-instagram"></i></a>
                            <a href="#"><i class="fa-brands fa-pinterest"></i></a>
                         </div>
+                        <div class="lang-menu">
+                           <div class="selected-lang" id="selected-lang">
+                              English
+                           </div>
+                           <ul id="lang-options" style="display: none;">
+                              <li>
+                                 <a href="#" class="de">German</a>
+                              </li>
+                              <li>
+                                 <a href="#" class="en">English</a>
+                              </li>
+                              <li>
+                                 <a href="#" class="fr">French</a>
+                              </li>
+                              <li>
+                                 <a href="#" class="ae">Arabic</a>
+                              </li>
+                           </ul>
+                        </div>
                      </div>
                   </div>
                </div>

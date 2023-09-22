@@ -22844,5 +22844,80 @@ div.price-open {
   -o-transform: translateY(-2px);
   transform: translateY(-2px);
 }
+.lang-menu{
+  margin-top: 5px;
+  position: relative;
+  z-index: 9999;
+  margin-left: 5px;
+}
+.selected-lang{
+  cursor: pointer;
+  display: flex;
+  justify-content: space-around;
+  line-height: 2;
+  width: 112px;
+  background-color: #ffffff3d;
+  padding:5px 10px;
+  box-shadow: rgba(100, 100, 111, 0.2) 0px 7px 29px 0px;
+  border-radius: 5px;
+  color: #55585B;
+}
+.selected-lang:before{
+  content: ' ';
+  display: block;
+  width: 32px;
+  height: 32px;
+  background-image: url('../img/icon/english.png');
+}
+.lang-menu ul{
+  margin: 0;
+  padding: 0;
+  background-color: white;
+  border: 1px solid #f8f8f8;
+  box-shadow: 0px 1px 10px rgba(0, 0, 0, 0.2);
+  border-radius: 5px;
+  display: none;
+  position: absolute;
+  top: 40px;
+  left: 0;
+}
+.lang-menu ul li{
+  list-style-type: none;
+  display: flex;
+  justify-content: space-between;
+}
+.lang-menu ul li a{
+  width: 140px;
+  display: block;
+  padding: 5px 10px;
+}
+.lang-menu ul li a::before{
+  content: ' ';
+  display: inline-block;
+  width: 32px;
+  height: 32px;
+  margin-right: 10px;
+  vertical-align: middle;
+  
+}
+.lang-menu ul li a:hover{
+  background-color: #f2f2f2;
+}
+.en::before{
+  background-image: url('../img/icon/english.png');
+}
+.de::before{
+  background-image: url('../img/icon/germany_555613.png');
+}
+.fr::before{
+  background-image: url('../img/icon/france_555602.png');
+}
+.ae::before{
+  background-image: url('../img/icon/united-arab-emirates.png');
+
+}
+.lang-menu:hover ul{
+  display: block;
+}
 
 /*# sourceMappingURL=main.css.map */

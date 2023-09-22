@@ -139,6 +139,7 @@
    <script src="assets/js/wavify.js"></script>
    <script src="assets/js/animate-headline.js"></script>
    <script src="assets/js/main.js"></script>
+   <script src="assets/js/lang.js"></script>
 </body>
 
 
