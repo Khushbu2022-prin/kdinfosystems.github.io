@@ -1,6 +1,5 @@
-<?php include("header1.php");?>
-
-   <main>
+<?php include("header1.php"); ?>
+<main>
 
       <!-- banner-area-start -->
       <div class="banner-area banner-4-spaces pt-150 pb-195">
@@ -20,7 +19,7 @@
                         </h4>
                         <p>All in one SEO for your business to give real impact <br> consultancy and analysis.!</p>
                         <div class="banner-4-btn mb-30">
-                           <a href="contact.html" class="blue-btn">Get Started Now</a>
+                           <a href="contact.php" class="blue-btn">Get Started Now</a>
                         </div>
                         <div class="contact-4 d-flex align-items-center">
                            <div class="contact-4-icon">
@@ -99,7 +98,7 @@
                         <h5 class="title mb-20">Digital Marketing</h5>
                         <p>We develop digital strategies, products and services appreciated by clients.</p>
                         <div class="services-btn-4 p-relative">
-                           <a href="marketing-analysis.html">
+                           <a href="marketing-analysis.php">
                               <span>Read More</span>
                               <i>
                                  <svg width="18" height="14" viewBox="0 0 18 14" fill="none" xmlns="http://www.w3.org/2000/svg">
@@ -127,7 +126,7 @@
                         <h5 class="title mb-20">SEO Analytics</h5>
                         <p>We develop digital strategies, products and services appreciated by clients.</p>
                         <div class="services-btn-4 p-relative">
-                           <a href="seo-audit.html">
+                           <a href="seo-audit.php">
                               <span>Read More</span>
                               <i>
                                  <svg width="18" height="14" viewBox="0 0 18 14" fill="none" xmlns="http://www.w3.org/2000/svg">
@@ -168,7 +167,7 @@
                         <h5 class="title mb-20">Social Marketing</h5>
                         <p>We develop digital strategies, products and services appreciated by clients.</p>
                         <div class="services-btn-4 p-relative">
-                           <a href="social-media-markiting.html">
+                           <a href="social-media-markiting.php">
                               <span>Read More</span>
                               <i>
                                  <svg width="18" height="14" viewBox="0 0 18 14" fill="none" xmlns="http://www.w3.org/2000/svg">
@@ -189,7 +188,7 @@
                         <img src="assets/img/shape/header-rocket.png" alt="">
                         <p>
                            You can also find our
-                           <a href="services.html">
+                           <a href="services.php">
                               Services
                               <i class="d-none d-md-block">
                                  <svg width="60" height="7" viewBox="0 0 60 7" fill="none" xmlns="http://www.w3.org/2000/svg">
@@ -433,7 +432,7 @@
                         </div>
                      </div>
                      <div class="optimize-btn">
-                        <a class="blue-btn" href="keyword-search.html">Discover More</a>
+                        <a class="blue-btn" href="keyword-search.php">Discover More</a>
                      </div>
                   </div>
                </div>
@@ -590,7 +589,7 @@
                                           <h4 class="title">Tips for the good UI design</h4>
                                        </div>
                                        <div class="portfolio-4-content-bottom">
-                                          <a href="portfolio-details.html">View Case Study <i class="fa-light fa-plus"></i></a>
+                                          <a href="portfolio-details.php">View Case Study <i class="fa-light fa-plus"></i></a>
                                        </div> 
                                     </div>
                                  </div>
@@ -606,7 +605,7 @@
                                           <h4 class="title">Online Media Management</h4>
                                        </div>
                                        <div class="portfolio-4-content-bottom">
-                                          <a href="portfolio-details.html">View Case Study <i class="fa-light fa-plus"></i></a>
+                                          <a href="portfolio-details.php">View Case Study <i class="fa-light fa-plus"></i></a>
                                        </div> 
                                     </div>
                                  </div>
@@ -622,7 +621,7 @@
                                           <h4 class="title">Tips for the good UI design</h4>
                                        </div>
                                        <div class="portfolio-4-content-bottom">
-                                          <a href="portfolio-details.html">View Case Study <i class="fa-light fa-plus"></i></a>
+                                          <a href="portfolio-details.php">View Case Study <i class="fa-light fa-plus"></i></a>
                                        </div> 
                                     </div>
                                  </div>
@@ -642,7 +641,7 @@
                                           <h4 class="title">Tips for the good UI design</h4>
                                        </div>
                                        <div class="portfolio-4-content-bottom">
-                                          <a href="portfolio-details.html">View Case Study <i class="fa-light fa-plus"></i></a>
+                                          <a href="portfolio-details.php">View Case Study <i class="fa-light fa-plus"></i></a>
                                        </div> 
                                     </div>
                                  </div>
@@ -658,7 +657,7 @@
                                           <h4 class="title">Online Media Management</h4>
                                        </div>
                                        <div class="portfolio-4-content-bottom">
-                                          <a href="portfolio-details.html">View Case Study <i class="fa-light fa-plus"></i></a>
+                                          <a href="portfolio-details.php">View Case Study <i class="fa-light fa-plus"></i></a>
                                        </div> 
                                     </div>
                                  </div>
@@ -674,7 +673,7 @@
                                           <h4 class="title">Tips for the good UI design</h4>
                                        </div>
                                        <div class="portfolio-4-content-bottom">
-                                          <a href="portfolio-details.html">View Case Study <i class="fa-light fa-plus"></i></a>
+                                          <a href="portfolio-details.php">View Case Study <i class="fa-light fa-plus"></i></a>
                                        </div> 
                                     </div>
                                  </div>
@@ -694,7 +693,7 @@
                                           <h4 class="title">Tips for the good UI design</h4>
                                        </div>
                                        <div class="portfolio-4-content-bottom">
-                                          <a href="portfolio-details.html">View Case Study <i class="fa-light fa-plus"></i></a>
+                                          <a href="portfolio-details.php">View Case Study <i class="fa-light fa-plus"></i></a>
                                        </div> 
                                     </div>
                                  </div>
@@ -710,7 +709,7 @@
                                           <h4 class="title">Online Media Management</h4>
                                        </div>
                                        <div class="portfolio-4-content-bottom">
-                                          <a href="portfolio-details.html">View Case Study <i class="fa-light fa-plus"></i></a>
+                                          <a href="portfolio-details.php">View Case Study <i class="fa-light fa-plus"></i></a>
                                        </div> 
                                     </div>
                                  </div>
@@ -726,7 +725,7 @@
                                           <h4 class="title">Tips for the good UI design</h4>
                                        </div>
                                        <div class="portfolio-4-content-bottom">
-                                          <a href="portfolio-details.html">View Case Study <i class="fa-light fa-plus"></i></a>
+                                          <a href="portfolio-details.php">View Case Study <i class="fa-light fa-plus"></i></a>
                                        </div> 
                                     </div>
                                  </div>
@@ -746,7 +745,7 @@
                                           <h4 class="title">Tips for the good UI design</h4>
                                        </div>
                                        <div class="portfolio-4-content-bottom">
-                                          <a href="portfolio-details.html">View Case Study <i class="fa-light fa-plus"></i></a>
+                                          <a href="portfolio-details.php">View Case Study <i class="fa-light fa-plus"></i></a>
                                        </div> 
                                     </div>
                                  </div>
@@ -762,7 +761,7 @@
                                           <h4 class="title">Online Media Management</h4>
                                        </div>
                                        <div class="portfolio-4-content-bottom">
-                                          <a href="portfolio-details.html">View Case Study <i class="fa-light fa-plus"></i></a>
+                                          <a href="portfolio-details.php">View Case Study <i class="fa-light fa-plus"></i></a>
                                        </div> 
                                     </div>
                                  </div>
@@ -778,7 +777,7 @@
                                           <h4 class="title">Tips for the good UI design</h4>
                                        </div>
                                        <div class="portfolio-4-content-bottom">
-                                          <a href="portfolio-details.html">View Case Study <i class="fa-light fa-plus"></i></a>
+                                          <a href="portfolio-details.php">View Case Study <i class="fa-light fa-plus"></i></a>
                                        </div> 
                                     </div>
                                  </div>
@@ -1484,9 +1483,9 @@
                      <div class="tpcontact-4-content">
                         <p>Just tell us your requirements and we will help you!</p>
                         <a class="phone mb-5" href="tel:0123456789">+(800) 2563 123</a>
-                        <a class="mail mb-35" href="https://html.weblearnbd.net/cdn-cgi/l/email-protection#97fef9f1f8d7f4f8fae7f6f9eeb9f4f8fa"><span class="__cf_email__" data-cfemail="a0c9cec6cfe0c3cfcdd0c1ced98ec3cfcd">[email&#160;protected]</span></a>
+                        <a class="mail mb-35" href="https://html.weblearnbd.net/cdn-cgi/l/email-protection#90f9fef6ffd0f3fffde0f1fee9bef3fffd"><span class="__cf_email__" data-cfemail="157c7b737a55767a7865747b6c3b767a78">[email&#160;protected]</span></a>
                         <div class="tpcontact-4-content-btn">
-                           <a href="contact.html">Call us Now</a>
+                           <a href="contact.php">Call us Now</a>
                         </div>
                      </div>
                   </div>
@@ -1551,7 +1550,7 @@
                </div>
                <div class="col-lg-4">
                   <div class="blog-all-btn text-lg-end mb-40">
-                     <a href="blog-list.html" class="blue-btn">More Articles</a>
+                     <a href="blog-list.php" class="blue-btn">More Articles</a>
                   </div>
                </div>
             </div>
@@ -1563,7 +1562,7 @@
                         <div class="col-lg-7 col-md-7">
                            <div class="tpblog-4-content">
                               <h5 class="tpblog-4-content-sub-tilte">SEO agency</h5>
-                              <h4 class="tpblog-4-content-title"><a href="blog-details.html">Wins 2023 good design london Award</a></h4>
+                              <h4 class="tpblog-4-content-title"><a href="blog-details.php">Wins 2023 good design london Award</a></h4>
                               <p>The annual good design Awards <br> is london oldest prestigious.</p>  
                               <div class="tpblog-4-info">
                                  <span>Nev 21,2023</span>
@@ -1581,7 +1580,7 @@
                         <div class="col-md-7 ">
                            <div class="tpblog-4-content">
                               <h5 class="tpblog-4-content-sub-tilte">SEO agency</h5>
-                              <h4 class="tpblog-4-content-title"><a href="blog-details.html">Me in resolution pianoforte continuing</a></h4>
+                              <h4 class="tpblog-4-content-title"><a href="blog-details.php">Me in resolution pianoforte continuing</a></h4>
                               <p>The annual good design Awards <br> is london oldest prestigious.</p>  
                               <div class="tpblog-4-info">
                                  <span>Nev 21,2023</span>
@@ -1640,4 +1639,4 @@
       <!-- award-area-end -->
    </main>
 
-     <?php include("footer.php");?>
+    <?php include("footer.php"); ?>
