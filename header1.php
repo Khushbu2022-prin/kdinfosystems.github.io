@@ -8,11 +8,7 @@
    <meta name="description" content="<?php echo $description ?>">
    <meta name="keywords" content="<?php echo $keywords ?>">
    <meta name="viewport" content="width=device-width, initial-scale=1">
-
-   <!-- Place favicon.ico in the root directory -->
    <link rel="shortcut icon" type="image/x-icon" href="assets/img/logo/favicon.png">
-
-   <!-- CSS here -->
    <link rel="stylesheet" href="assets/css/bootstrap.css">
    <link rel="stylesheet" href="assets/css/animate.css">
    <link rel="stylesheet" href="assets/css/swiper-bundle.css">
@@ -25,10 +21,16 @@
    <link rel="stylesheet" href="assets/css/main.css">
    <link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=DM+Sans:wght@400;500;700&amp;family=Plus+Jakarta+Sans:wght@200;300;400;500;600;700;800&amp;family=Urbanist:wght@300;400;500;600;700;800&amp;display=swap">
 </head>
+<style>
+   .top-header-deatils{
+      display: flex;
+      gap: 15px;
+   }
+</style>
 
 <body>
 
-   <!-- pre loader area start -->
+ 
    <div id="loading">
       <div id="loading-center">
          <div id="loading-center-absolute">
@@ -42,7 +44,7 @@
                      </svg>
                 
                   </div>
-                  <img src="assets/img/logo/preloader/preloader-icon.svg" alt="">
+                  <img src="assets/img/logo/preloader/preloader.png" alt="" width="100"> 
                </div>
                <p class="tp-preloader-subtitle">Loading</p>
             </div>
@@ -69,10 +71,16 @@
             <div class="container">
                <div class="row align-items-center">
                   <div class="col-lg-6 col-sm-8">
+                  <div class="top-header-deatils">
                      <div class="header-offer d-flex align-items-center">
                         <img src="assets/img/shape/mail.png" alt="">
                        <p><a href="mailto:support@kdinfosystems.com">support@kdinfosystems.com</a></p>
-                     </div>
+                      </div>
+                      <div class="header-offer d-flex align-items-center">
+                        <img src="assets/img/shape/phone-call.png" alt="">
+                       <p><a href="tel:+918169014375">+918169014375</a></p>
+                      </div>
+                  </div>
                   </div>
                   <div class="col-lg-6 col-sm-4">
                      <div class="header-social d-flex align-items-center">
@@ -80,7 +88,7 @@
                            <a href="#"><i class="fa-brands fa-facebook"></i></a>
                            <a href="#"><i class="fa-brands fa-twitter"></i></a>
                            <a href="#"><i class="fa-brands fa-instagram"></i></a>
-                           <a href="#"><i class="fa-brands fa-pinterest"></i></a>
+                           <a href="#"><i class="fa-brands fa-linkedin"></i></a>
                         </div>
                         <div class="lang-menu">
                            <div class="selected-lang" id="selected-lang">
@@ -164,12 +172,7 @@
                                                          Email Template/Signature
                                                       </a>
                                                    </li>
-                                                   <li>
-                                                      <a href="payment-gateway.php">
-                                                         <span> <img src="assets/img/home/Payment Gateway.png" alt=""> </span>
-                                                         Payment Gateway
-                                                      </a>
-                                                   </li>
+                                                   
                                                    <li>
                                                       <a href="api-integration.php">
                                                          <span> <img src="assets/img/home/api integration.png" alt=""> </span>
@@ -184,7 +187,7 @@
                                     </div> 
                                  </li>
                                  <li>
-                                    <a href="pricing.php">Pricing</a>
+                                    <a href="#">Pricing</a>
                                   
                                  </li>
                                  <li class="has-dropdown">
@@ -217,9 +220,9 @@
          </div>
       </div>
    </header>
-   <!-- header-area-end -->
+ 
 
-   <!-- offcanvas area start -->
+
    <div class="offcanvas__area">
       <div class="offcanvas__wrapper">
          <div class="offcanvas__close">
@@ -235,18 +238,18 @@
          <div class="offcanvas__content">
             <div class="offcanvas__top mb-50 d-flex justify-content-between align-items-center">
                <div class="offcanvas__logo logo">
-                  <a href="home-main.php">
+                  <a href="index.php">
                      <img src="assets/img/logo/logo-pink.svg" alt="logo">
                   </a>
                </div>
             </div>
             <div class="tp-main-menu-mobile mb-35"></div>
             <div class="offcanvas__btn">
-               <a href="contact.php" class="tp-btn w-100">Getting Started</a>
+               <a href="contact-us.php" class="tp-btn w-100">Contact Us</a>
             </div>
             <div class="offcanvas__contact mb-40">
-               <p class="offcanvas__contact-call"><a href="tel:+964-742-44-763">+964 742 44 763</a></p>
-               <p class="offcanvas__contact-mail"><a href="https://html.weblearnbd.net/cdn-cgi/l/email-protection#94fdfaf2fbd4fcf5e6e6edbaf7fbf9"><span class="__cf_email__" data-cfemail="60090e060f2013050f0d194e030f0d">[email&#160;protected]</span></a></p>
+               <p class="offcanvas__contact-call"><a href="tel:+918169014375">+918169014375</a></p>
+               <p class="offcanvas__contact-mail"><a href="mailto:"><span  >sales@kdinfosystems.com</span></a></p>
             </div>
             <div class="offcanvas__social">
                <a href="#"><i class="fab fa-facebook-f"></i></a>
@@ -259,5 +262,5 @@
       </div>
    </div>
    <div class="body-overlay"></div>
-   <!-- offcanvas area end -->
+
 

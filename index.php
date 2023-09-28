@@ -9,17 +9,19 @@
                   <div class="banner-4">
                      <div class="banner-4-content">
                         <h4 class="banner-4-title cd-headline clip is-full-width">
-                           SEO marketing <br>
+                        Elevate your<br>
                            <span class="cd-words-wrapper">
-                              <b class="is-visible">agency</b>
-                              <b>analysis</b>
-                              <b>value</b>
+                              <b class="is-visible"> brand  </b>
+                              <b> with</b>
+                             
+                              <b>expert</b>
+                             
                            </span>
-                           in UK
+                           web design.
                         </h4>
-                        <p>All in one SEO for your business to give real impact <br> consultancy and analysis.!</p>
+                        <p> Unlocking the power of innovation and creativity in web design and development   to bring your digital vision to life.</p>
                         <div class="banner-4-btn mb-30">
-                           <a href="contact.php" class="blue-btn">Get Started Now</a>
+                           <a href="contact-us.php" class="blue-btn">Get Started Now</a>
                         </div>
                         <div class="contact-4 d-flex align-items-center">
                            <div class="contact-4-icon">
@@ -77,7 +79,8 @@
                <div class="col-lg-12">
                   <div class="section-wrapper text-center mb-60">
                      <span>Why services Us</span>
-                     <h5 class="section-title-4">Our à services</h5>
+                     <h5 class="section-title-4">Discover Our Services
+                     </h5>
                   </div>
                </div>
             </div>
@@ -95,8 +98,9 @@
                         </i>
                      </div>
                      <div class="services-content-4">
-                        <h5 class="title mb-20">Digital Marketing</h5>
-                        <p>We develop digital strategies, products and services appreciated by clients.</p>
+                        <h5 class="title mb-20">Landing Page</h5>
+                        <p>A compelling landing page — your digital handshake, designed to engage, convert, and captivate.
+                        </p>
                         <div class="services-btn-4 p-relative">
                            <a href="marketing-analysis.php">
                               <span>Read More</span>
@@ -123,8 +127,9 @@
                         </i>
                      </div>
                      <div class="services-content-4">
-                        <h5 class="title mb-20">SEO Analytics</h5>
-                        <p>We develop digital strategies, products and services appreciated by clients.</p>
+                        <h5 class="title mb-20">Static Website</h5>
+                        <p>A static website is a simple and stable online presence. Its content remains fixed, providing consistent information to visitors. 
+                        </p>
                         <div class="services-btn-4 p-relative">
                            <a href="seo-audit.php">
                               <span>Read More</span>
@@ -164,8 +169,8 @@
                         </i>
                      </div>
                      <div class="services-content-4">
-                        <h5 class="title mb-20">Social Marketing</h5>
-                        <p>We develop digital strategies, products and services appreciated by clients.</p>
+                        <h5 class="title mb-20">Wordpress Website</h5>
+                        <p>Easy-to-use, customizable, and SEO-friendly. Elevate your online presence with our expert design and development.</p>
                         <div class="services-btn-4 p-relative">
                            <a href="social-media-markiting.php">
                               <span>Read More</span>
@@ -213,32 +218,14 @@
                <div class="row">
                   <div class="col-lg-12">
                      <div class="brand-wrapper text-center">
-                        <h5 class="title">As Featured On:</h5>
+                        <h5 class="title">Web Development Services That Drive Superior Outcome</h5>
                      </div>
                   </div>
                </div>
                <div class="row">
                   <div class="col-lg-12">
-                     <div class="tpbrand tpbrand-active-4 mb-170">
-                        <div class="tpbrand-item-4 mb-35">
-                           <img src="assets/img/brand/logo-3-1.png" alt="">
-                        </div>
-                        <div class="tpbrand-item-4 mb-35">
-                           <img src="assets/img/brand/logo-3-2.png" alt="">
-                        </div>
-                        <div class="tpbrand-item-4 mb-35">
-                           <img src="assets/img/brand/logo-3-3.png" alt="">
-                        </div>
-                        <div class="tpbrand-item-4 mb-35">
-                           <img src="assets/img/brand/logo-3-4.png" alt="">
-                        </div>
-                        <div class="tpbrand-item-4 mb-35">
-                           <img src="assets/img/brand/logo-3-5.png" alt="">
-                        </div>
-                        <div class="tpbrand-item-4 mb-35">
-                           <img src="assets/img/brand/logo-3-1.png" alt="">
-                        </div>
-                     </div>
+                    <p>Our expert in-house team utilizes cutting-edge technologies and platforms like WordPress, Joomla, Drupal, Laravel, Magento, Core PHP language, WooCommerce, and more to complement your business objectives and goals. Being an eminent web development company with more than 12 years of experience, our professionals are committed to providing innovative web development solutions, ranging from brand research to conceptualization, crafting UX/UI design, and overall marketing plan.
+                  </p>
                   </div>
                </div>
             </div>

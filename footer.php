@@ -1,5 +1,4 @@
- <!-- footer-area-start -->
- <footer>
+<footer>
          <div class="footer-area footer-bg-4 pt-100">
             <div class="container">
                <div class="footer-top">
@@ -21,25 +20,25 @@
                               </a>
                            </div>
                            <div class="footer-widget-content">
-                              <p class="footer-widget-text mb-20">This SEO is most reputed firm <br> which provides
-                                 various online <br> marketing </p>
+                              <p class="footer-widget-text mb-20">Create captivating websites that elevate your brand. Our design and development expertise ensures a powerful online presence.
+                                </p>
                               <div class="fooer-btn-4">
-                                 <a class="blue-btn" href="keyword-search.html">Grow Traffic</a>
+                                 <a class="blue-btn" href="contact-us.php">Contact Us</a>
                               </div>
                            </div>
                         </div>
                      </div>
                      <div class="col-lg-3 col-md-6 col-sm-6">
                         <div class="footer-widget  footer-4-col-2 pl-30 mb-40">
-                           <h4 class="footer-widget-title mb-15">Information</h4>
+                           <h4 class="footer-widget-title mb-15">Quick Links</h4>
                            <div class="footer-widget-link">
                               <ul>
-                                 <li><a href="index.html">Home</a></li>
-                                 <li><a href="about.html">About Us</a></li>
-                                 <li><a href="portfolio.html">Project</a></li>
-                                 <li><a href="pricing.html">Plan & Pricing</a></li>
-                                 <li><a href="blog-grid.html">Blog</a></li>
-                                 <li><a href="contact.html">Contact Us</a></li>
+                                 <li><i class="fas fa-arrow-right"></i><a href="index.php">Home</a></li>
+                                 <li><i class="fas fa-arrow-right"></i><a href="about-us.php">About Us</a></li>
+                                 <li><i class="fas fa-arrow-right"></i><a href="#">Pricing</a></li>
+                                 
+                                 <li><i class="fas fa-arrow-right"></i><a href="#">Blogs</a></li>
+                                 <li><i class="fas fa-arrow-right"></i><a href="contcat-us.php">Contact Us</a></li>
                               </ul>
                            </div>
                         </div>
@@ -49,46 +48,27 @@
                            <h4 class="footer-widget-title mb-15">Services</h4>
                            <div class="footer-widget-link">
                               <ul>
-                                 <li><a href="seo-audit.html">SEO Audit</a></li>
-                                 <li><a href="building-social-services.html">SEO Services</a></li>
-                                 <li><a href="social-media-markiting.html">SEO Marketing</a></li>
-                                 <li><a href="marketing-analysis.html">SEO Analysis</a></li>
-                                 <li><a href="keyword-search.html">SEO Optimization</a></li>
-                                 <li><a href="social-media-markiting.html">Social Media</a></li>
+                                 <li><i class="fas fa-arrow-right"></i><a href="landing-website.php">Landing Website</a></li>
+                                 <li><i class="fas fa-arrow-right"></i><a href="static-website.php">Static Website</a></li>
+                                 <li><i class="fas fa-arrow-right"></i><a href="wordpress-website.php">WordPress Website</a></li>
+                                 <li><i class="fas fa-arrow-right"></i><a href="ecommerce.php">Ecommerce</a></li>
+                                 <li><i class="fas fa-arrow-right"></i><a href="email-template-signature.php">Email Template/Signature</a></li>
+                                 <li><i class="fas fa-arrow-right"></i><a href="api-integration.php">API Integration</a></li>
                               </ul>
                            </div>
                         </div>
                      </div>
                      <div class="col-lg-3 col-md-6 col-sm-8">
                         <div class="footer-widget  footer-4-col-4 mb-40">
-                           <h4 class="footer-widget-title mb-20">Subcribe.</h4>
-                           <div class="footer-widget-content mb-40">
-                              <p class="footer-widget-text mb-20">Only valuable resource no bullshit</p>
-                              <form action="#">
-                                 <div class="p-relative">
-                                    <div class="footer-widget-newsletter-input mb-15">
-                                       <input type="email" placeholder="Your Email">
-                                       <span>
-                                          <svg width="18" height="16" viewBox="0 0 18 16" fill="none" xmlns="http://www.w3.org/2000/svg">
-                                             <path d="M13 14.6H5C2.6 14.6 1 13.4 1 10.6V5C1 2.2 2.6 1 5 1H13C15.4 1 17 2.2 17 5V10.6C17 13.4 15.4 14.6 13 14.6Z" stroke="#565764" stroke-width="1.5" stroke-miterlimit="10" stroke-linecap="round" stroke-linejoin="round"/>
-                                             <path d="M13 5.39844L10.496 7.39844C9.672 8.05444 8.32 8.05444 7.496 7.39844L5 5.39844" stroke="#565764" stroke-width="1.5" stroke-miterlimit="10" stroke-linecap="round" stroke-linejoin="round"/>
-                                          </svg>
-                                       </span>
-                                    </div>
-                                    <div class="footer-widget-btn">
-                                       <button class="footer-widget-newsletter-btn-2">
-                                          <i>
-                                             <svg width="10" height="10" viewBox="0 0 10 10" fill="none" xmlns="http://www.w3.org/2000/svg">
-                                                <path d="M1 9L9 1" stroke="white" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/>
-                                                <path d="M1 1H9V9" stroke="white" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/>
-                                             </svg>
-                                          </i>   
-                                       </button>
-                                    </div>
-                                 </div>
-                              </form>
+                           <h4 class="footer-widget-title mb-20"> Partner Programs
+</h4>
+                           <div class="footer-widget-link">
+                            <ul>
+                              <li><i class="fas fa-arrow-right"></i><a href="become-an-affiliate.php">Become An Affiliate</a></li>
+                            </ul>
+                              
                            </div>
-                           <div class="footer-widget-social">
+                           <div class="footer-widget-social mt-20">
                               <a href="#"><i class="fa-brands fa-facebook-f"></i></a>
                               <a href="#"><i class="fa-brands fa-twitter"></i></a>
                               <a  href="#"><i class="fa-brands fa-linkedin-in"></i></a>
@@ -102,11 +82,13 @@
                   <div class="row">
                      <div class="col-lg-12">
                         <div class="footer-widget-copyright footer-widget-copyright-4 text-center">
-                           <span>© 2023 <a target="_blank" href="#">KDInfoSystems</a> All Rights Reserved.
+                           <div class="footer-copyright-ul">
                            <ul>
-                              <li>Privacy Policy</li>
-                              <li> Terms and Conditions</li>
-                           </ul></span>
+                              <li>© 2023<a target="_blank" href="index.php" class="copyright-name">KDInfoSystems</a> All Rights Reserved.</li>
+                              <li><a href="">Privacy Policy</a></li>
+                              <li><a href="">Terms and Conditions</a></li>
+                              <li><a href="">Disclaimer</a> </li>
+                           </ul></div>
                           
                         </div>
                      </div>
