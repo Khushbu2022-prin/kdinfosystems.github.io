@@ -90,19 +90,15 @@
                      <div class="services-icon-4 mb-30">
                         <img src="assets/img/shape/choose-4-shape-1.png" alt="">
                         <i>
-                           <svg width="65" height="65" viewBox="0 0 65 65" fill="none" xmlns="http://www.w3.org/2000/svg">
-                              <path d="M23.3913 18.6022C27.0321 15.9133 35.5256 9.26806 38.3667 3.82084L38.3602 3.81737C38.7873 2.99837 39.7947 2.68738 40.6103 3.12271C40.992 3.32642 41.2641 3.65753 41.4018 4.03612L41.4024 4.03797L48.2132 22.7506L55.0248 41.465C55.3423 42.3375 54.8992 43.2999 54.0351 43.6144C53.5859 43.778 53.1113 43.7341 52.7145 43.5318C47.0056 41.2403 36.35 41.6053 31.8651 41.8837L23.3913 18.6022L23.3913 18.6022ZM30.0155 42.0171L22.2275 44.8517C19.2621 45.931 16.1218 45.688 13.4516 44.427C10.7813 43.166 8.57886 40.8861 7.48899 37.8918L7.28407 37.3287C6.19422 34.3344 6.4159 31.1722 7.65086 28.4898C8.88585 25.8074 11.1352 23.6027 14.1006 22.5234L21.8886 19.6888L30.0154 42.0171L30.0155 42.0171Z" fill="#775AFC"/>
-                              <path d="M52.2057 28.8515C53.0344 28.1427 53.6898 27.2648 54.1389 26.2894C54.9452 24.5384 55.0866 22.4731 54.3717 20.5091C53.6569 18.5451 52.2211 17.0539 50.4779 16.2308C49.5069 15.7723 48.4405 15.5211 47.3501 15.5107L52.2057 28.8514L52.2057 28.8515Z" fill="#775AFC"/>
-                              <path d="M19.4797 42.2723L25.489 40.0851C26.3531 39.7706 27.3111 40.223 27.6287 41.0956L33.2801 56.6226C33.5976 57.4951 33.1545 58.4575 32.2904 58.772L26.2812 60.9592C25.4171 61.2737 24.459 60.8213 24.1415 59.9487L18.4901 44.4217C18.1725 43.5492 18.6156 42.5868 19.4797 42.2723Z" fill="#775AFC"/>
-                           </svg>
+                           <svg height="60" width="60" fill="#775AFC"  version="1.1" id="Icons" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 32 32" xml:space="preserve" stroke="#775AFC"><g id="SVGRepo_bgCarrier" stroke-width="0"></g><g id="SVGRepo_tracerCarrier" stroke-linecap="round" stroke-linejoin="round"></g><g id="SVGRepo_iconCarrier"> <g> <path d="M27,4H5C3.3,4,2,5.3,2,7v18c0,1.7,1.3,3,3,3h22c1.7,0,3-1.3,3-3V7C30,5.3,28.7,4,27,4z M12.1,7.6c0.1-0.1,0.1-0.2,0.2-0.3 c0.4-0.4,1-0.4,1.4,0c0.1,0.1,0.2,0.2,0.2,0.3C14,7.7,14,7.9,14,8c0,0.1,0,0.3-0.1,0.4c-0.1,0.1-0.1,0.2-0.2,0.3 C13.5,8.9,13.3,9,13,9c-0.1,0-0.3,0-0.4-0.1c-0.1-0.1-0.2-0.1-0.3-0.2c-0.1-0.1-0.2-0.2-0.2-0.3C12,8.3,12,8.1,12,8 C12,7.9,12,7.7,12.1,7.6z M9.1,7.6c0.1-0.1,0.1-0.2,0.2-0.3c0.1-0.1,0.2-0.2,0.3-0.2C10,6.9,10.4,7,10.7,7.3 c0.1,0.1,0.2,0.2,0.2,0.3C11,7.7,11,7.9,11,8c0,0.3-0.1,0.5-0.3,0.7C10.5,8.9,10.3,9,10,9C9.7,9,9.5,8.9,9.3,8.7C9.1,8.5,9,8.3,9,8 C9,7.9,9,7.7,9.1,7.6z M6.3,7.3c0,0,0.1-0.1,0.1-0.1c0.1,0,0.1-0.1,0.2-0.1C6.7,7,6.7,7,6.8,7c0.1,0,0.3,0,0.4,0 c0.1,0,0.1,0,0.2,0.1c0.1,0,0.1,0.1,0.2,0.1c0,0,0.1,0.1,0.1,0.1c0.1,0.1,0.2,0.2,0.2,0.3C8,7.7,8,7.9,8,8c0,0.1,0,0.3-0.1,0.4 C7.9,8.5,7.8,8.6,7.7,8.7C7.5,8.9,7.3,9,7,9S6.5,8.9,6.3,8.7C6.1,8.5,6,8.3,6,8C6,7.7,6.1,7.5,6.3,7.3z M17,23c0,0.6-0.4,1-1,1H6 c-0.6,0-1-0.4-1-1v-0.8l6.9-3.1l5.1,3.4V23z M17,20.1l-4.4-3c-0.3-0.2-0.6-0.2-1-0.1L5,20v-7c0-0.6,0.4-1,1-1h10c0.6,0,1,0.4,1,1 V20.1z M27,23c0,0.6-0.4,1-1,1h-6c-0.6,0-1-0.4-1-1v-3c0-0.6,0.4-1,1-1h6c0.6,0,1,0.4,1,1V23z M26,18h-3c-0.6,0-1-0.4-1-1 s0.4-1,1-1h3c0.6,0,1,0.4,1,1S26.6,18,26,18z M26,15h-6c-0.6,0-1-0.4-1-1s0.4-1,1-1h6c0.6,0,1,0.4,1,1S26.6,15,26,15z"></path> <path d="M9.7,15.3c-0.4-0.4-1-0.4-1.4,0c-0.1,0.1-0.2,0.2-0.2,0.3C8,15.7,8,15.9,8,16c0,0.3,0.1,0.5,0.3,0.7 c0.1,0.1,0.2,0.2,0.3,0.2S8.9,17,9,17c0.3,0,0.5-0.1,0.7-0.3C9.9,16.5,10,16.3,10,16c0-0.1,0-0.3-0.1-0.4S9.8,15.4,9.7,15.3z"></path> </g> </g></svg>
                         </i>
                      </div>
                      <div class="services-content-4">
                         <h5 class="title mb-20">Landing Page</h5>
-                        <p>A compelling landing page — your digital handshake, designed to engage, convert, and captivate.
+                        <p>A compelling landing page—your digital handshake, designed to engage, convert, and captivate.
                         </p>
                         <div class="services-btn-4 p-relative">
-                           <a href="marketing-analysis.php">
+                           <a href="landing-page.php">
                               <span>Read More</span>
                               <i>
                                  <svg width="18" height="14" viewBox="0 0 18 14" fill="none" xmlns="http://www.w3.org/2000/svg">
@@ -120,18 +116,16 @@
                      <div class="services-icon-4 mb-30">
                         <img src="assets/img/shape/choose-4-shape-2.png" alt="">
                         <i>
-                           <svg width="56" height="57" viewBox="0 0 56 57" fill="none" xmlns="http://www.w3.org/2000/svg">
-                              <path d="M0.928711 13.8593C2.72083 7.78287 7.78916 2.71454 13.8656 0.922424C18.4859 -0.421664 21.6781 -0.309656 23.8902 1.34245C26.5504 3.33058 26.8584 6.91481 26.8584 9.46298V16.4354C26.8584 23.3239 23.7222 26.8241 17.5618 26.8241H9.52527C7.00511 26.8241 3.39287 26.5161 1.40474 23.8559C-0.303368 21.6718 -0.443378 18.4796 0.928711 13.8593Z" fill="#FF8139"/>
-                              <path d="M8.65652 31.8085C9.38457 30.9685 10.4486 30.4924 11.5407 30.4924H21.5654C26.4937 30.4924 30.4979 26.4882 30.4979 21.5599V11.5352C30.4979 10.4431 30.974 9.37907 31.814 8.65102C32.6261 7.92297 33.7462 7.58695 34.8102 7.72696C41.3907 8.56701 47.4391 12.1792 51.3873 17.6116C55.3636 23.072 56.8197 29.7364 55.5596 36.4008C53.7395 46.0335 46.039 53.734 36.3783 55.5541C34.8382 55.8621 33.2981 56.0021 31.758 56.0021C26.6897 56.0021 21.7894 54.434 17.6171 51.3818C12.1848 47.4335 8.57252 41.3851 7.73246 34.8047C7.59246 33.7127 7.92848 32.6206 8.65652 31.8085Z" fill="#FF8139"/>
-                           </svg>
+                           <svg height="50" width="50" version="1.1" id="_x32_" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 512 512" xml:space="preserve" fill="#ff8139"><g id="SVGRepo_bgCarrier" stroke-width="0"></g><g id="SVGRepo_tracerCarrier" stroke-linecap="round" stroke-linejoin="round"></g><g id="SVGRepo_iconCarrier"> <style type="text/css"> .st0{fill:#ff8139;} </style> <g> <path class="st0" d="M0,0.002v511.996h512v-18.071V0.002H0z M475.859,475.856H36.141v-364.43h439.718V475.856z"></path> <rect x="78.305" y="167.994" class="st0" width="355.386" height="96.723"></rect> <rect x="295.152" y="309.894" class="st0" width="138.538" height="118.968"></rect> <rect x="78.305" y="311.694" class="st0" width="162.631" height="18.07"></rect> <rect x="78.305" y="408.991" class="st0" width="162.631" height="18.071"></rect> <rect x="78.305" y="360.347" class="st0" width="162.631" height="18.071"></rect> </g> </g></svg>
                         </i>
                      </div>
                      <div class="services-content-4">
                         <h5 class="title mb-20">Static Website</h5>
                         <p>A static website is a simple and stable online presence. Its content remains fixed, providing consistent information to visitors. 
+
                         </p>
                         <div class="services-btn-4 p-relative">
-                           <a href="seo-audit.php">
+                           <a href="static-website.php">
                               <span>Read More</span>
                               <i>
                                  <svg width="18" height="14" viewBox="0 0 18 14" fill="none" xmlns="http://www.w3.org/2000/svg">
@@ -149,28 +143,37 @@
                      <div class="services-icon-4 mb-30">
                         <img src="assets/img/shape/choose-4-shape-3.png" alt="">
                         <i>
-                           <svg width="96" height="96" viewBox="0 0 96 96" fill="none" xmlns="http://www.w3.org/2000/svg">
-                              <g filter="url(#filter0_d_1916_296)">
-                              <path d="M66.6669 53.3331C64.0965 53.3331 61.7725 54.3719 60.0841 56.054L49.2446 49.628C49.9397 47.8878 50.3338 45.9915 50.3338 44C50.3338 42.0085 49.9397 40.1122 49.2425 38.372L60.0841 31.946C61.7725 33.6274 64.0965 34.6669 66.6669 34.6669C71.8231 34.6669 76 30.49 76 25.3331C76 20.179 71.8231 16 66.6669 16C61.5128 16 57.3331 20.179 57.3331 25.3331C57.3331 26.2333 57.5018 27.088 57.7391 27.9105L46.8702 34.3526C44.0898 30.9828 39.8793 28.8331 35.1669 28.8331C26.79 28.8331 20 35.6238 20 44C20 52.379 26.79 59.1669 35.1669 59.1669C39.8786 59.1669 44.0898 57.0179 46.8702 53.6474L57.7391 60.0895C57.5018 60.912 57.3331 61.7667 57.3331 62.6669C57.3331 67.8231 61.5128 72 66.6669 72C71.8231 72 76 67.8231 76 62.6669C76 57.5128 71.8231 53.3331 66.6669 53.3331Z" fill="#3CD0FF"/>
-                              </g>
-                              <defs>
-                              <filter id="filter0_d_1916_296" x="0" y="0" width="96" height="96" filterUnits="userSpaceOnUse" color-interpolation-filters="sRGB">
-                              <feFlood flood-opacity="0" result="BackgroundImageFix"/>
-                              <feColorMatrix in="SourceAlpha" type="matrix" values="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 127 0" result="hardAlpha"/>
-                              <feOffset dy="4"/>
-                              <feGaussianBlur stdDeviation="10"/>
-                              <feComposite in2="hardAlpha" operator="out"/>
-                              <feColorMatrix type="matrix" values="0 0 0 0 0.231373 0 0 0 0 0.815686 0 0 0 0 1 0 0 0 0.4 0"/>
-                              <feBlend mode="normal" in2="BackgroundImageFix" result="effect1_dropShadow_1916_296"/>
-                              <feBlend mode="normal" in="SourceGraphic" in2="effect1_dropShadow_1916_296" result="shape"/>
-                              </filter>
-                              </defs>
-                           </svg>
+                           <svg height="60" width="60" viewBox="0 0 24 24" xmlns="http://www.w3.org/2000/svg" fill="#3CD0FF"><g id="SVGRepo_bgCarrier" stroke-width="0"></g><g id="SVGRepo_tracerCarrier" stroke-linecap="round" stroke-linejoin="round"></g><g id="SVGRepo_iconCarrier"> <title>wordpress</title> <rect width="24" height="24" fill="none"></rect> <path d="M2,12a10.14,10.14,0,0,1,.86-4.08L7.64,21A10,10,0,0,1,2,12m16.75-.5A12.67,12.67,0,0,1,18,14.73l-1,3.33L13.38,7.34l1.14-.12a.42.42,0,0,0-.06-.83s-1.62.13-2.67.13L9.16,6.39a.42.42,0,0,0-.07.83l1.06.12,1.56,4.24L9.52,18.14,5.87,7.34,7,7.22A.42.42,0,0,0,7,6.39s-1.62.13-2.67.13H3.64A10,10,0,0,1,18.75,4.62h-.13a1.73,1.73,0,0,0-1.68,1.77,4.72,4.72,0,0,0,1,2.35,5.13,5.13,0,0,1,.83,2.76m-6.58,1.37,3.08,8.42.07.14a9.93,9.93,0,0,1-6.14.16l3-8.72M20.78,7.2A10,10,0,0,1,17,20.64l3.06-8.83a9.43,9.43,0,0,0,.77-3.57l-.07-1"></path> </g></svg>
                         </i>
                      </div>
                      <div class="services-content-4">
-                        <h5 class="title mb-20">Wordpress Website</h5>
+                        <h5 class="title mb-20">WordPress Website</h5>
                         <p>Easy-to-use, customizable, and SEO-friendly. Elevate your online presence with our expert design and development.</p>
+                        <div class="services-btn-4 p-relative">
+                           <a href="wordpress-website.php">
+                              <span>Read More</span>
+                              <i>
+                                 <svg width="18" height="14" viewBox="0 0 18 14" fill="none" xmlns="http://www.w3.org/2000/svg">
+                                    <path d="M11.2871 1L17 6.71285L11.2871 12.4257" stroke="currentColor" stroke-width="1.5" stroke-miterlimit="10" stroke-linecap="round" stroke-linejoin="round"/>
+                                    <path d="M1 6.71313H16.8397" stroke="currentColor" stroke-width="1.5" stroke-miterlimit="10" stroke-linecap="round" stroke-linejoin="round"/>
+                                 </svg>
+                              </i>
+                           </a>
+                        </div>
+                     </div>
+                  </div>
+               </div>
+               <div class="col-lg-4 col-md-6">
+                  <div class="services-item-4 text-center mb-55">
+                     <div class="services-icon-4 mb-30">
+                        <img src="assets/img/shape/choose-4-shape-4.png" alt="">
+                        <i>
+                           <svg height="60" width="60" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg"><g id="SVGRepo_bgCarrier" stroke-width="0"></g><g id="SVGRepo_tracerCarrier" stroke-linecap="round" stroke-linejoin="round"></g><g id="SVGRepo_iconCarrier"> <path d="M16.5276 2H7.47201C6.26919 2 5.66778 2 5.18448 2.2987C4.70117 2.5974 4.43221 3.13531 3.8943 4.21114L2.49068 7.75929C2.16639 8.57905 1.88266 9.54525 2.42854 10.2375C2.79476 10.7019 3.36244 11 3.99978 11C5.10435 11 5.99978 10.1046 5.99978 9C5.99978 10.1046 6.89522 11 7.99978 11C9.10435 11 9.99978 10.1046 9.99978 9C9.99978 10.1046 10.8952 11 11.9998 11C13.1044 11 13.9998 10.1046 13.9998 9C13.9998 10.1046 14.8952 11 15.9998 11C17.1044 11 17.9998 10.1046 17.9998 9C17.9998 10.1046 18.8952 11 19.9998 11C20.6371 11 21.2048 10.7019 21.5711 10.2375C22.117 9.54525 21.8333 8.57905 21.509 7.75929L20.1054 4.21114C19.5674 3.13531 19.2985 2.5974 18.8152 2.2987C18.3319 2 17.7305 2 16.5276 2Z" fill="#CA50DE"></path> <path fill-rule="evenodd" clip-rule="evenodd" d="M20 21.25H22C22.4142 21.25 22.75 21.5858 22.75 22C22.75 22.4142 22.4142 22.75 22 22.75H2C1.58579 22.75 1.25 22.4142 1.25 22C1.25 21.5858 1.58579 21.25 2 21.25H4L4 12.5C4.74363 12.5 5.43309 12.2681 6 11.8727C6.56692 12.2681 7.25638 12.5 8 12.5C8.74363 12.5 9.43309 12.2681 10 11.8727C10.5669 12.2681 11.2564 12.5 12 12.5C12.7436 12.5 13.4331 12.2681 14 11.8727C14.5669 12.2681 15.2564 12.5 16 12.5C16.7436 12.5 17.4331 12.2681 18 11.8727C18.5669 12.2681 19.2564 12.5 20 12.5L20 21.25ZM9.5 21.25H14.5V18.5C14.5 17.5654 14.5 17.0981 14.299 16.75C14.1674 16.522 13.978 16.3326 13.75 16.2009C13.4019 16 12.9346 16 12 16C11.0654 16 10.5981 16 10.25 16.2009C10.022 16.3326 9.83261 16.522 9.70096 16.75C9.5 17.0981 9.5 17.5654 9.5 18.5V21.25Z" fill="#CA50DE"></path> </g></svg>
+                        </i>
+                     </div>
+                     <div class="services-content-4">
+                        <h5 class="title mb-20">Ecommerce website</h5>
+                        <p>An e-commerce website is a digital storefront that allows businesses to sell products or services online.</p>
                         <div class="services-btn-4 p-relative">
                            <a href="social-media-markiting.php">
                               <span>Read More</span>
@@ -185,49 +188,79 @@
                      </div>
                   </div>
                </div>
-            </div>
-            <div class="row justify-content-center">
-               <div class="col-xl-6 col-lg-8 col-md-10">
-                  <div class="services-bottom text-center">
-                     <div class="servics-details-4 d-flex align-items-center justify-content-center">
-                        <img src="assets/img/shape/header-rocket.png" alt="">
-                        <p>
-                           You can also find our
-                           <a href="services.php">
-                              Services
-                              <i class="d-none d-md-block">
-                                 <svg width="60" height="7" viewBox="0 0 60 7" fill="none" xmlns="http://www.w3.org/2000/svg">
-                                    <path d="M1.19582 4.26135C22.5561 -1.51199 38.7792 0.327797 59.246 6.22031" stroke="#775AFC" stroke-linecap="round"/>
+               <div class="col-lg-4 col-md-6">
+                  <div class="services-item-4 text-center mb-55">
+                     <div class="services-icon-4 mb-30">
+                        <img src="assets/img/shape/choose-4-shape-5.png" alt="">
+                        <i>
+                           <svg fill="#FF847F" height="60px" width="60px" version="1.1" id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 512 512" xml:space="preserve"><g id="SVGRepo_bgCarrier" stroke-width="0"></g><g id="SVGRepo_tracerCarrier" stroke-linecap="round" stroke-linejoin="round"></g><g id="SVGRepo_iconCarrier"> <g> <g> <g> <path d="M511.952,176.97l-152.521,99.928c-5.503,3.605-6.811,11.111-2.851,16.366l154.067,204.41 c0.871-2.049,1.354-4.303,1.354-6.67V177.917C512,177.597,511.97,177.285,511.952,176.97z"></path> <path d="M326.049,298.77l-65.372,42.829c-2.838,1.86-6.513,1.862-9.353,0l-65.372-42.829c-5.012-3.284-11.714-2.117-15.321,2.668 L14.993,507.932c0.681,0.083,1.37,0.139,2.073,0.139h477.867c0.703,0,1.393-0.055,2.073-0.139L341.37,301.438 C337.763,296.653,331.062,295.486,326.049,298.77z"></path> <path d="M152.569,276.897L0.048,176.97C0.03,177.286,0,177.597,0,177.917v313.085c0,2.367,0.483,4.62,1.354,6.67l154.067-204.41 C159.38,288.009,158.072,280.503,152.569,276.897z"></path> <polygon points="403.63,98.428 403.63,227.536 502.16,162.982 "></polygon> <path d="M262.235,5.79c-3.787-2.48-8.684-2.48-12.471,0l-44.615,29.231h101.703L262.235,5.79z"></path> <polygon points="108.37,98.428 9.84,162.982 108.37,227.536 "></polygon> <path d="M133.151,243.63l113.495,74.358c5.68,3.722,13.027,3.722,18.706,0l113.495-74.358c4.815-3.153,7.715-8.521,7.715-14.276 V69.154c0.003-9.425-7.639-17.066-17.064-17.066H142.503c-9.426,0-17.066,7.642-17.066,17.066v160.199 C125.436,235.11,128.337,240.476,133.151,243.63z M216.279,137.577h79.441c4.712,0,8.534,3.82,8.534,8.534 c0,4.714-3.82,8.534-8.534,8.534h-79.441c-4.712,0-8.534-3.82-8.534-8.534C207.745,141.399,211.565,137.577,216.279,137.577z M216.279,193.734h79.441c4.712,0,8.534,3.82,8.534,8.534c0,4.712-3.82,8.534-8.534,8.534h-79.441 c-4.712,0-8.534-3.82-8.534-8.534C207.745,197.555,211.565,193.734,216.279,193.734z"></path> </g> </g> </g> </g></svg>
+                        </i>
+                     </div>
+                     <div class="services-content-4">
+                        <h5 class="title mb-20">Email Template/Signature</h5>
+                        <p>Professional email templates and signatures that make a lasting impression, streamline communication, and enhance your online identity.
+                        </p>
+                        <div class="services-btn-4 p-relative">
+                           <a href="email-template-signature.php">
+                              <span>Read More</span>
+                              <i>
+                                 <svg width="18" height="14" viewBox="0 0 18 14" fill="none" xmlns="http://www.w3.org/2000/svg">
+                                    <path d="M11.2871 1L17 6.71285L11.2871 12.4257" stroke="currentColor" stroke-width="1.5" stroke-miterlimit="10" stroke-linecap="round" stroke-linejoin="round"/>
+                                    <path d="M1 6.71313H16.8397" stroke="currentColor" stroke-width="1.5" stroke-miterlimit="10" stroke-linecap="round" stroke-linejoin="round"/>
                                  </svg>
                               </i>
                            </a>
-                            to contact for the consulting.
+                        </div>
+                     </div>
+                  </div>
+               </div>
+               <div class="col-lg-4 col-md-6">
+                  <div class="services-item-4 text-center mb-55">
+                     <div class="services-icon-4 mb-30">
+                        <img src="assets/img/shape/choose-4-shape-6.png" alt="">
+                        <i>
+                          <svg fill="#39DDB8" height="60px" width="60px" viewBox="0 0 512 512" version="1.1" xml:space="preserve" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink"><g id="SVGRepo_bgCarrier" stroke-width="0"></g><g id="SVGRepo_tracerCarrier" stroke-linecap="round" stroke-linejoin="round"></g><g id="SVGRepo_iconCarrier"> <g id="_x31_96_x2C__Api_x2C__app_x2C__coding_x2C__developer_x2C__software"> <g> <path d="M366.748,485.999c-1.433-3.167-2.637-6.446-3.58-9.876l-0.074-0.227 c-1.586-5.881-2.396-12.139-2.281-18.585c0.303-18.356,8.048-34.905,20.299-46.741c12.214-11.799,28.989-18.961,47.344-18.66 c8.163,0.151,15.947,1.734,23.11,4.524c4.372,1.696,8.5,3.882,12.363,6.445v-57.599c-2.151-0.678-4.299-1.319-6.485-1.885 c-3.147-0.829-6.408-1.545-9.725-2.111c-1.94-0.338-3.523-1.922-3.787-3.957l-5.675-42.785l-16.267-0.264l-7.142,42.559 c-0.319,1.96-1.885,3.543-3.941,3.807c-4.183,0.604-8.311,1.396-12.381,2.413c-4.11,1.018-8.181,2.261-12.14,3.731 c-1.846,0.641-3.994,0.075-5.24-1.545l-26.311-34.229l-14.209,7.917l14.964,40.107c0.923,1.923,0.414,4.26-1.319,5.616 c-3.395,2.639-6.577,5.429-9.557,8.293c-2.997,2.903-5.899,5.994-8.63,9.273c-1.263,1.508-3.394,2.074-5.296,1.319l-39.941-16.511 l-8.367,13.947l33.039,27.216c1.716,1.208,2.453,3.507,1.621,5.542c-1.582,3.883-2.977,7.916-4.127,11.986 c-1.147,4.034-2.092,8.144-2.808,12.327c-0.341,1.923-1.923,3.506-3.977,3.77l-42.767,5.692l-0.302,16.284l42.598,7.124 c1.941,0.34,3.542,1.885,3.806,3.959c0.34,2.487,0.754,4.938,1.245,7.312c0.263,1.244,0.526,2.488,0.846,3.809H366.748z M463.929,414.34c-4.656-3.883-9.952-7.012-15.719-9.273c-6.201-2.412-12.911-3.808-19.905-3.921 c-15.811-0.263-30.27,5.919-40.806,16.097c-10.535,10.178-17.207,24.39-17.47,40.221c-0.078,5.466,0.604,10.856,1.996,15.983 l0.057,0.188c1.189,4.373,2.885,8.48,4.994,12.364h86.853V414.34z M374.627,149.115h82.743l-82.743-82.742V149.115z M463.929,158.388H369.99c-2.563,0-4.636-2.073-4.636-4.637V59.814h-2.411L96.586,59.776c0,142.074,0,284.147,0,426.223h205.589 l-0.414-1.998l-0.828-4.523l-43.198-7.238c-2.376-0.377-4.036-2.524-3.846-4.9l0.414-23.974c0.039-2.3,1.772-4.186,4.014-4.486 l43.389-5.767c0.677-3.355,1.487-6.673,2.411-9.914c0.943-3.317,2.018-6.597,3.225-9.764l-33.796-27.856 c-1.79-1.471-2.166-4.033-1.036-5.956l12.477-20.733c1.189-1.997,3.675-2.789,5.77-1.884l40.447,16.698 c2.26-2.525,4.637-5.013,7.125-7.426c2.467-2.374,5.012-4.637,7.611-6.785l-15.34-41.05c-0.793-2.187,0.112-4.562,2.074-5.654 l21.145-11.761c2.035-1.094,4.523-0.566,5.899,1.244l26.708,34.717c3.242-1.093,6.559-2.073,9.896-2.902 c3.26-0.829,6.576-1.508,9.971-2.073l7.236-43.161c0.396-2.375,2.544-4.033,4.899-3.846l23.956,0.377 c2.319,0.038,4.204,1.772,4.506,4.034l5.748,43.388c2.394,0.489,4.787,1.018,7.143,1.658c1.396,0.34,2.79,0.754,4.147,1.168 V158.388z M87.314,459.536V55.178v-0.113v-0.113l0,0l0.018-0.113l0,0l0.018-0.113l0,0l0.056-0.489h0.021 c0.414-2.11,2.281-3.694,4.524-3.694l265.374,0.037l-0.073-8.783h-9.143H71.255c0,139.248,0,278.494,0,417.741H87.314z M61.982,443.742V37.159v-0.112v-0.113l0,0L62,36.82l0,0l0.018-0.113l0,0l0.06-0.453h0.018c0.414-2.11,2.281-3.731,4.524-3.731 h275.987l-0.056-6.483L48.071,26.002v417.74H61.982z M237.773,277.58c-4.787-4.938-11.476-8.066-18.885-8.18 c-7.426-0.15-14.231,2.752-19.169,7.539c-4.938,4.787-8.064,11.46-8.198,18.885c-0.133,7.427,2.769,14.25,7.56,19.188 c4.787,4.938,11.458,8.066,18.885,8.18c7.426,0.151,14.21-2.752,19.169-7.539c4.956-4.787,8.086-11.459,8.198-18.885 C245.463,289.342,242.561,282.557,237.773,277.58z M219.022,260.166c9.988,0.15,18.979,4.371,25.405,11.006 c6.409,6.672,10.29,15.757,10.139,25.746c-0.168,9.951-4.373,18.961-11.023,25.369c-6.654,6.408-15.74,10.291-25.728,10.141 c-9.971-0.151-18.962-4.373-25.37-11.008c-6.426-6.634-10.308-15.756-10.139-25.746c0.151-9.951,4.373-18.961,11.006-25.369 C199.948,263.897,209.069,260.015,219.022,260.166z M137.184,294.92l-0.039,2.188l19.751,3.316 c2.074,0.34,3.583,1.998,3.829,3.996c0.281,2.035,0.677,4.033,1.147,5.993c0.509,1.998,1.13,3.996,1.85,5.956 c0.733,2.035-0.039,4.26-1.755,5.428l-15.663,12.025l2.13,3.807l18.79-7.011c1.923-0.716,4.036-0.075,5.24,1.47 c1.263,1.621,2.639,3.205,4.092,4.713c1.45,1.507,2.958,2.902,4.503,4.221c1.586,1.32,2.074,3.469,1.319,5.277l-7.651,18.547 l3.77,2.262l12.739-15.455c1.302-1.584,3.471-2.074,5.278-1.357c1.906,0.754,3.885,1.471,5.843,2.035 c1.997,0.566,4.033,1.018,6.068,1.357c2.113,0.377,3.657,2.111,3.829,4.184l2.618,19.641l4.373,0.074l3.299-19.752 c0.337-2.035,1.979-3.543,3.92-3.807c2.092-0.303,4.127-0.717,6.089-1.207c2.036-0.49,4.033-1.131,5.956-1.809 c1.979-0.717,4.145,0,5.313,1.658l12.14,15.756l3.807-2.148l-7.012-18.771c-0.716-1.923-0.056-4.033,1.488-5.24 c1.678-1.318,3.242-2.676,4.675-4.07c1.487-1.434,2.902-2.979,4.239-4.562c1.376-1.659,3.695-2.073,5.541-1.169l18.285,7.539 l2.242-3.77l-15.438-12.741c-1.601-1.319-2.092-3.468-1.358-5.277c0.776-1.96,1.453-3.92,2.039-5.88 c0.565-1.998,1.019-3.996,1.355-6.031c0.379-2.111,2.112-3.656,4.165-3.846l19.64-2.601l0.077-4.372l-19.734-3.318 c-2.074-0.339-3.601-2.035-3.846-3.995c-0.264-2.036-0.678-4.033-1.148-5.993c-0.509-1.998-1.133-3.996-1.828-5.956 c-0.755-1.998,0.018-4.222,1.733-5.391l15.663-12.063l-2.13-3.808l-18.772,7.012c-1.923,0.717-4.036,0.075-5.239-1.508 c-1.264-1.584-2.64-3.166-4.054-4.637c-1.453-1.47-2.979-2.902-4.58-4.26c-1.66-1.395-2.091-3.693-1.186-5.541l7.539-18.282 l-3.752-2.262l-12.739,15.456c-1.32,1.582-3.467,2.072-5.296,1.355c-1.923-0.791-3.902-1.469-5.864-2.035 c-1.997-0.564-3.994-1.018-6.029-1.357c-2.148-0.377-3.657-2.109-3.847-4.184l-2.601-19.639l-4.373-0.076l-3.316,19.752 c-0.341,2.074-2.036,3.619-4.033,3.846c-2.018,0.264-4.036,0.679-5.994,1.168c-1.962,0.49-3.941,1.094-5.92,1.81 c-2.015,0.755-4.24-0.038-5.408-1.733l-12.044-15.682l-3.826,2.148l7.03,18.773c0.716,1.922,0.06,4.033-1.506,5.238 c-1.604,1.244-3.166,2.64-4.636,4.072c-1.492,1.432-2.923,2.939-4.261,4.561c-1.396,1.658-3.695,2.073-5.559,1.168l-18.263-7.539 l-2.264,3.77l15.456,12.742c1.583,1.318,2.074,3.467,1.337,5.276c-0.772,1.923-1.45,3.921-2.015,5.881 c-0.565,1.997-1.018,3.996-1.375,6.031c-0.358,2.111-2.113,3.657-4.166,3.845l-19.639,2.602L137.184,294.92z M283.179,181.797 v-69.511h9.234v69.511H283.179z M226.069,145.307h17.982c5.956,0,10.157-1.131,12.666-3.316c2.484-2.225,3.73-5.353,3.73-9.387 c0-2.864-0.716-5.391-2.187-7.463c-1.488-2.035-3.432-3.431-5.805-4.109c-1.565-0.377-4.429-0.604-8.595-0.604h-17.793V145.307z M216.854,181.797v-69.511h26.254c4.597,0,8.142,0.226,10.574,0.641c3.411,0.565,6.275,1.659,8.594,3.242 c2.316,1.62,4.184,3.845,5.598,6.71c1.394,2.864,2.092,6.031,2.092,9.461c0,5.881-1.867,10.895-5.636,14.965 c-3.77,4.109-10.574,6.145-20.412,6.145h-17.849v28.348H216.854z M164.474,153.262h23.675l-7.24-19.263 c-2.187-5.881-3.843-10.706-4.973-14.551c-0.961,4.562-2.243,9.009-3.846,13.419L164.474,153.262z M144.459,181.797l26.668-69.511 h10.122l28.311,69.511h-10.479l-8.03-21.072h-29.29l-7.539,21.072H144.459z" style="fill-rule:evenodd;clip-rule:evenodd;"></path> </g> </g> <g id="Layer_1"></g> </g></svg>
+                        </i>
+                     </div>
+                     <div class="services-content-4">
+                        <h5 class="title mb-20"> API Integration</h5>
+                        <p>Seamlessly connect and enhance your digital ecosystem by integrating APIs, enabling efficient data exchange and functionality across platforms.
+
                         </p>
+                        <div class="services-btn-4 p-relative">
+                           <a href="api-integration.php">
+                              <span>Read More</span>
+                              <i>
+                                 <svg width="18" height="14" viewBox="0 0 18 14" fill="none" xmlns="http://www.w3.org/2000/svg">
+                                    <path d="M11.2871 1L17 6.71285L11.2871 12.4257" stroke="currentColor" stroke-width="1.5" stroke-miterlimit="10" stroke-linecap="round" stroke-linejoin="round"/>
+                                    <path d="M1 6.71313H16.8397" stroke="currentColor" stroke-width="1.5" stroke-miterlimit="10" stroke-linecap="round" stroke-linejoin="round"/>
+                                 </svg>
+                              </i>
+                           </a>
+                        </div>
                      </div>
                   </div>
                </div>
             </div>
+          
          </div>
       </section>
       <!-- services-area-end -->
 
       <!-- brand-area-start -->
-      <section class="brand-area brand-bg-3 mb-120 p-relative">
+      <section class="brand-area brand-bg-3 mb-120 p-relative" style="padding:50px 0 150px;">
          <div class="brand-bg-4">
             <div class="container">
                <div class="row">
                   <div class="col-lg-12">
                      <div class="brand-wrapper text-center">
                         <h5 class="title">Web Development Services That Drive Superior Outcome</h5>
+                        <p class="text-white">Our expert in-house team utilizes cutting-edge technologies and platforms like WordPress, Joomla, Drupal, Laravel, Magento, Core PHP language, WooCommerce, and more to complement your business objectives and goals. Being an eminent web development company with more than 12 years of experience, our professionals are committed to providing innovative web development solutions, ranging from brand research to conceptualization, crafting UX/UI design, and overall marketing plan.
+                        </p>
                      </div>
                   </div>
                </div>
-               <div class="row">
-                  <div class="col-lg-12">
-                    <p>Our expert in-house team utilizes cutting-edge technologies and platforms like WordPress, Joomla, Drupal, Laravel, Magento, Core PHP language, WooCommerce, and more to complement your business objectives and goals. Being an eminent web development company with more than 12 years of experience, our professionals are committed to providing innovative web development solutions, ranging from brand research to conceptualization, crafting UX/UI design, and overall marketing plan.
-                  </p>
-                  </div>
-               </div>
+               
             </div>
          </div>
          <!-- wave-animation -->
@@ -279,8 +312,8 @@
                <div class="col-lg-6">
                   <div class="feature-content-4 pl-70">
                      <div class="section-wrapper mb-40">
-                        <span>Let us do the work</span>
-                        <h5 class="section-title-4 section-title-4-2">How we do It</h5>
+                        <!-- <span>Let us do the work</span> -->
+                        <h5 class="section-title-4 section-title-4-2">Client-Centric Web Solutions</h5>
                      </div>
                      <ul class="feature-list-4">
                         <li>
@@ -304,8 +337,10 @@
                                  </div>
                               </div>
                               <div class="feature-list-4-content">
-                                 <h4 class="title">Creative Ideas</h4>
-                                 <p>Keyword research and other market <br> research under the SEO analytics <br> umbrella.</p>
+                                 <h4 class="title">Customized Solutions</h4>
+                                 <p>We craft unique websites tailored to your <br> specific business needs, ensuring a personalized <br> online presence that sets you apart.
+
+                                   </p>
                               </div>
                               <div class="feature-4-shape-1 d-none d-md-block">
                                  <svg class="line-dash-path" width="38" height="122" viewBox="0 0 38 122" fill="none" xmlns="http://www.w3.org/2000/svg">
@@ -335,8 +370,10 @@
                                  </div>
                               </div>
                               <div class="feature-list-4-content">
-                                 <h4 class="title">Data Collection</h4>
-                                 <p>Keyword research and other market <br> research under the SEO analytics <br> umbrella.</p>
+                                 <h4 class="title">User-Centric Design</h4>
+                                 <p> Our focus is on creating websites that prioritize user experience, resulting in intuitive and engaging interfaces that captivate your audience.
+
+                                 </p>
                               </div>
                               <div class="feature-4-shape-2 d-none d-md-block">
                                  <svg class="line-dash-path" width="42" height="122" viewBox="0 0 42 122" fill="none" xmlns="http://www.w3.org/2000/svg">
@@ -366,11 +403,15 @@
                                  </div>
                               </div>
                               <div class="feature-list-4-content">
-                                 <h4 class="title">Targeting</h4>
-                                 <p>Keyword research and other market <br> research under the SEO analytics <br> umbrella.</p>
+                                 <h4 class="title">   Cutting-Edge Technology              
+                                 </h4>
+                                 <p>We harness the latest web technologies to deliver websites that are not only visually appealing but also secure, fast, and adaptable to changing demands.
+
+                                 </p>
                               </div>
                            </div>
                         </li>
+                       
                      </ul>
                   </div>
                </div>
@@ -779,610 +820,7 @@
       </section>
       <!-- portfolio-area-end -->
 
-      <!-- pricing-area-start -->
-      <section class="pricing-area tp-price-parent tppricing-box-active pb-170 fix">
-         <div class="container">
-            <div class="row">
-               <div class="col-lg-12">
-                  <div class="section-wrapper text-center mb-40">
-                     <span>Pricing Plans</span>
-                     <h5 class="section-title-4 section-title-4-2">Packages for everyone</h5>
-                  </div>
-               </div>
-            </div>
-            <div class="tpprice-4-switch-box  p-relative">
-               <div class="tpprice-4-switch p-relative">
-                  <div class="tpprice-switch-wrapper tpprice-4-position tppricing-switch-2">
-                     <div class="toggle">
-                        <input type="checkbox" id="switcher-price" class="tp-check">
-                        <b class="switch"></b>
-                     </div>
-                     <div class="label-text">
-                        <label class="toggler toggler-price-active" id="filt-monthly-price">Billed Yearly</label>
-                        <label class="toggler" id="filt-yearly-price">Billed Monthy</label>
-                     </div>
-                  </div>
-               </div>
-               <div class="tppricing-shape-4">
-                  <div class="tppricing-shape-1">
-                     <img src="assets/img/shape/pricing-4-shape-3.png" alt="">
-                  </div>
-                  <div class="tppricing-shape-3">
-                     <svg width="86" height="59" viewBox="0 0 86 59" fill="none" xmlns="http://www.w3.org/2000/svg">
-                        <path d="M1 39.5506C8 21.0506 23.7 -11.5494 30.5 6.05057C39 28.0506 33 68.5508 63 48.0508C71.5 44.0508 78 41.5508 85 58.0508" stroke="currentColor" stroke-linejoin="round" stroke-dasharray="4 4"/>
-                     </svg>
-                  </div>
-                  <div class="tppricing-shape-2">
-                     <img src="assets/img/shape/pricing-4-shape-2.png" alt="">
-                  </div>
-               </div>
-            </div>
-            <div class="price-scroll">
-               <div class="price-scroll-width">
-                  <div class="row gx-0">
-                     <div class="col-12">
-                        <div id="monthly-price" class="wrapper-full">
-                           <!-- priceing-top -->
-                           <div class="tppriceing-top">
-                              <div class="row gx-0">
-                                 <div class="price-custom-col-1">
-                                 </div>
-                                 <div class="price-custom-col-2">
-                                    <div class="row gx-0">
-                                       <div class="col-4">
-                                          <div class="tppricing-4-head text-center">
-                                             <span>Essential</span>
-                                             <h4 class="title">$36.00</h4>
-                                          </div>
-                                       </div>
-                                       <div class="col-4">
-                                          <div class="tppricing-4-head active text-center p-relative">
-                                             <div class="big-price-shape"></div>
-                                             <div class="sm-price-shape"></div>
-                                             <span>Pro</span>
-                                             <h4 class="title">$54.00</h4>
-                                          </div>
-                                       </div>
-                                       <div class="col-4">
-                                          <div class="tppricing-4-head text-center"> 
-                                             <span>Business</span>
-                                             <h4 class="title">$89.00</h4>
-                                          </div>
-                                       </div>
-                                    </div>
-                                 </div>
-                              </div>
-                           </div>
-                           <!-- priceing-top-end -->
-                           <!-- pricing-box -->
-                           <div class="pricing-box-4">
-                              <!-- pricing-item -->
-                              <div class="row gx-0">
-                                 <div class="price-custom-col-1">
-                                    <div class="tppricing-4-title">
-                                       <h4 class="title">keyword Research</h4>
-                                    </div>
-                                 </div>
-                                 <div class="price-custom-col-2">
-                                    <div class="row gx-0">
-                                       <div class="col-4">
-                                          <div class="tppricing-4-price tppricing-right text-center">
-                                             <p>100</p>
-                                          </div>
-                                       </div>
-                                       <div class="col-4">
-                                          <div class="tppricing-4-price active text-center">
-                                             <p>200</p>
-                                          </div>
-                                       </div>
-                                       <div class="col-4">
-                                          <div class="tppricing-4-price tppricing-left text-center">
-                                             <p>250</p>
-                                          </div>
-                                       </div>
-                                    </div>
-                                 </div>
-                              </div>
-                              <!-- pricing-item-end -->
-                              <!-- pricing-item -->
-                              <div class="row gx-0">
-                                 <div class="price-custom-col-1">
-                                    <div class="tppricing-4-title">
-                                       <h4 class="title">On-page and SERP analysis</h4>
-                                    </div>
-                                 </div>
-                                 <div class="price-custom-col-2">
-                                    <div class="row gx-0">
-                                       <div class="col-4">
-                                          <div class="tppricing-4-price text-center">
-                                             <p>10</p>
-                                          </div>
-                                       </div>
-                                       <div class="col-4">
-                                          <div class="tppricing-4-price active text-center">
-                                             <p>20</p>
-                                          </div>
-                                       </div>
-                                       <div class="col-4">
-                                          <div class="tppricing-4-price text-center">
-                                             <p>30</p>
-                                          </div>
-                                       </div>
-                                    </div>
-                                 </div>
-                              </div>
-                              <!-- pricing-item-end -->
-                              <!-- pricing-item -->
-                              <div class="row gx-0">
-                                 <div class="price-custom-col-1">
-                                    <div class="tppricing-4-title">
-                                       <h4 class="title">Tools for Agencies</h4>
-                                    </div>
-                                 </div>
-                                 <div class="price-custom-col-2">
-                                    <div class="row gx-0">
-                                       <div class="col-4">
-                                          <div class="tppricing-4-price text-center">
-                                             <p>Limited</p>
-                                          </div>
-                                       </div>
-                                       <div class="col-4">
-                                          <div class="tppricing-4-price active text-center">
-                                             <p>Limited</p>
-                                          </div>
-                                       </div>
-                                       <div class="col-4">
-                                          <div class="tppricing-4-price text-center">
-                                             <p>Limited</p>
-                                          </div>
-                                       </div>
-                                    </div>
-                                 </div>
-                              </div>
-                              <!-- pricing-item-end -->
-                              <!-- pricing-item -->
-                              <div class="row gx-0">
-                                 <div class="price-custom-col-1">
-                                    <div class="tppricing-4-title">
-                                       <h4 class="title">Сontent Marketing</h4>
-                                    </div>
-                                 </div>
-                                 <div class="price-custom-col-2">
-                                    <div class="row gx-0">
-                                       <div class="col-4">
-                                          <div class="tppricing-4-price text-center">
-                                             <p>15 articles</p>
-                                          </div>
-                                       </div>
-                                       <div class="col-4">
-                                          <div class="tppricing-4-price active text-center">
-                                             <p>30 articles</p>
-                                          </div>
-                                       </div>
-                                       <div class="col-4">
-                                          <div class="tppricing-4-price text-center">
-                                             <p>20 articles</p>
-                                          </div>
-                                       </div>
-                                    </div>
-                                 </div>
-                              </div>
-                              <!-- pricing-item-end -->
-                              <!-- pricing-item -->
-                              <div class="row gx-0">
-                                 <div class="price-custom-col-1">
-                                    <div class="tppricing-4-title">
-                                       <h4 class="title">Additional Features</h4>
-                                    </div>
-                                 </div>
-                                 <div class="price-custom-col-2">
-                                    <div class="row gx-0">
-                                       <div class="col-4">
-                                          <div class="tppricing-4-price text-center">
-                                             <p>5</p>
-                                          </div>
-                                       </div>
-                                       <div class="col-4">
-                                          <div class="tppricing-4-price active text-center">
-                                             <p>10</p>
-                                          </div>
-                                       </div>
-                                       <div class="col-4">
-                                          <div class="tppricing-4-price text-center">
-                                             <p>15</p>
-                                          </div>
-                                       </div>
-                                    </div>
-                                 </div>
-                              </div>
-                              <!-- pricing-item-end -->
-                              <!-- pricing-item -->
-                              <div class="row gx-0">
-                                 <div class="price-custom-col-1"></div>
-                                 <div class="price-custom-col-2">
-                                    <div class="row gx-0">
-                                       <div class="col-4">
-                                          <div class="tppricing-4-price tppricing-right tppricing-4-btn">
-                                             <p>
-                                                <a href="#">Join this Plan</a>
-                                             </p>
-                                          </div>
-                                       </div>
-                                       <div class="col-4">
-                                          <div class="tppricing-4-price active tppricing-4-btn">
-                                             <p>
-                                                <a href="#">Join this Plan</a>
-                                             </p>
-                                          </div>
-                                       </div>
-                                       <div class="col-4">
-                                          <div class="tppricing-4-price tppricing-right tppricing-4-btn">
-                                             <p>
-                                                <a href="#">Join this Plan</a>
-                                             </p>
-                                          </div>
-                                       </div>
-                                    </div>
-                                 </div>
-                              </div>
-                              <!-- pricing-item-end -->
-                           </div>
-                           <!-- pricing-box-end -->
-                        </div>
-                        <div id="hourly-price" class="wrapper-full price-is-hide">
-                           <!-- priceing-top -->
-                           <div class="tppriceing-top">
-                              <div class="row gx-0">
-                                 <div class="price-custom-col-1">
-                                 </div>
-                                 <div class="price-custom-col-2">
-                                    <div class="row gx-0">
-                                       <div class="col-4">
-                                          <div class="tppricing-4-head text-center">
-                                             <span>Essential</span>
-                                             <h4 class="title">$46.00</h4>
-                                          </div>
-                                       </div>
-                                       <div class="col-4">
-                                          <div class="tppricing-4-head active text-center p-relative">
-                                             <div class="big-price-shape"></div>
-                                             <div class="sm-price-shape"></div>
-                                             <span>Pro</span>
-                                             <h4 class="title">$64.00</h4>
-                                          </div>
-                                       </div>
-                                       <div class="col-4">
-                                          <div class="tppricing-4-head text-center"> 
-                                             <span>Business</span>
-                                             <h4 class="title">$99.00</h4>
-                                          </div>
-                                       </div>
-                                    </div>
-                                 </div>
-                              </div>
-                           </div>
-                           <!-- priceing-top-end -->
-                           <!-- pricing-box -->
-                           <div class="pricing-box-4">
-                              <!-- pricing-item -->
-                              <div class="row gx-0">
-                                 <div class="price-custom-col-1">
-                                    <div class="tppricing-4-title">
-                                       <h4 class="title">keyword Research</h4>
-                                    </div>
-                                 </div>
-                                 <div class="price-custom-col-2">
-                                    <div class="row gx-0">
-                                       <div class="col-4">
-                                          <div class="tppricing-4-price tppricing-right text-center">
-                                             <p>50</p>
-                                          </div>
-                                       </div>
-                                       <div class="col-4">
-                                          <div class="tppricing-4-price active text-center">
-                                             <p>150</p>
-                                          </div>
-                                       </div>
-                                       <div class="col-4">
-                                          <div class="tppricing-4-price tppricing-left text-center">
-                                             <p>200</p>
-                                          </div>
-                                       </div>
-                                    </div>
-                                 </div>
-                              </div>
-                              <!-- pricing-item-end -->
-                              <!-- pricing-item -->
-                              <div class="row gx-0">
-                                 <div class="price-custom-col-1">
-                                    <div class="tppricing-4-title">
-                                       <h4 class="title">On-page and SERP analysis</h4>
-                                    </div>
-                                 </div>
-                                 <div class="price-custom-col-2">
-                                    <div class="row gx-0">
-                                       <div class="col-4">
-                                          <div class="tppricing-4-price text-center">
-                                             <p>08</p>
-                                          </div>
-                                       </div>
-                                       <div class="col-4">
-                                          <div class="tppricing-4-price active text-center">
-                                             <p>16</p>
-                                          </div>
-                                       </div>
-                                       <div class="col-4">
-                                          <div class="tppricing-4-price text-center">
-                                             <p>28</p>
-                                          </div>
-                                       </div>
-                                    </div>
-                                 </div>
-                              </div>
-                              <!-- pricing-item-end -->
-                              <!-- pricing-item -->
-                              <div class="row gx-0">
-                                 <div class="price-custom-col-1">
-                                    <div class="tppricing-4-title">
-                                       <h4 class="title">Tools for Agencies</h4>
-                                    </div>
-                                 </div>
-                                 <div class="price-custom-col-2">
-                                    <div class="row gx-0">
-                                       <div class="col-4">
-                                          <div class="tppricing-4-price text-center">
-                                             <p>Limited</p>
-                                          </div>
-                                       </div>
-                                       <div class="col-4">
-                                          <div class="tppricing-4-price active text-center">
-                                             <p>Unlimited</p>
-                                          </div>
-                                       </div>
-                                       <div class="col-4">
-                                          <div class="tppricing-4-price text-center">
-                                             <p>Limited</p>
-                                          </div>
-                                       </div>
-                                    </div>
-                                 </div>
-                              </div>
-                              <!-- pricing-item-end -->
-                              <!-- pricing-item -->
-                              <div class="row gx-0">
-                                 <div class="price-custom-col-1">
-                                    <div class="tppricing-4-title">
-                                       <h4 class="title">Сontent Marketing</h4>
-                                    </div>
-                                 </div>
-                                 <div class="price-custom-col-2">
-                                    <div class="row gx-0">
-                                       <div class="col-4">
-                                          <div class="tppricing-4-price text-center">
-                                             <p>15 articles</p>
-                                          </div>
-                                       </div>
-                                       <div class="col-4">
-                                          <div class="tppricing-4-price active text-center">
-                                             <p>45 articles</p>
-                                          </div>
-                                       </div>
-                                       <div class="col-4">
-                                          <div class="tppricing-4-price text-center">
-                                             <p>18 articles</p>
-                                          </div>
-                                       </div>
-                                    </div>
-                                 </div>
-                              </div>
-                              <!-- pricing-item-end -->
-                              <!-- pricing-item -->
-                              <div class="row gx-0">
-                                 <div class="price-custom-col-1">
-                                    <div class="tppricing-4-title">
-                                       <h4 class="title">Additional Features</h4>
-                                    </div>
-                                 </div>
-                                 <div class="price-custom-col-2">
-                                    <div class="row gx-0">
-                                       <div class="col-4">
-                                          <div class="tppricing-4-price text-center">
-                                             <p>4</p>
-                                          </div>
-                                       </div>
-                                       <div class="col-4">
-                                          <div class="tppricing-4-price active text-center">
-                                             <p>12</p>
-                                          </div>
-                                       </div>
-                                       <div class="col-4">
-                                          <div class="tppricing-4-price text-center">
-                                             <p>20</p>
-                                          </div>
-                                       </div>
-                                    </div>
-                                 </div>
-                              </div>
-                              <!-- pricing-item-end -->
-                              <!-- pricing-item -->
-                              <div class="row gx-0">
-                                 <div class="price-custom-col-1"></div>
-                                 <div class="price-custom-col-2">
-                                    <div class="row gx-0">
-                                       <div class="col-4">
-                                          <div class="tppricing-4-price tppricing-right tppricing-4-btn">
-                                             <p>
-                                                <a href="#">Join this Plan</a>
-                                             </p>
-                                          </div>
-                                       </div>
-                                       <div class="col-4">
-                                          <div class="tppricing-4-price active tppricing-4-btn">
-                                             <p>
-                                                <a href="#">Join this Plan</a>
-                                             </p>
-                                          </div>
-                                       </div>
-                                       <div class="col-4">
-                                          <div class="tppricing-4-price tppricing-right tppricing-4-btn">
-                                             <p>
-                                                <a href="#">Join this Plan</a>
-                                             </p>
-                                          </div>
-                                       </div>
-                                    </div>
-                                 </div>
-                              </div>
-                              <!-- pricing-item-end -->
-                           </div>
-                           <!-- pricing-box-end -->
-                        </div>
-                     </div>
-                  </div>
-               </div>
-            </div>
-         </div>
-      </section>
-      <!-- pricing-area-end -->
 
-      <!-- testimonial-area-start -->
-      <section class="testimonial-area pb-60 scene fix">
-         <div class="container">
-            <div class="row">
-               <div class="col-lg-6">
-                  <div class="testimonial-4-thumb p-relative pb-60">
-                     <div class="testimonial-4-main-thumb p-relative">
-                        <img src="assets/img/shape/testimonial-4-shape-1.png" alt="">
-                        <div class="testimonial-4-main-anim">
-                           <div class="tp-tooltip-circle">
-                              <div class="tp-tooltip-effect-1"></div>
-                              <div class="tp-tooltip-effect-2"></div>
-                              <div class="tp-tooltip-effect-3"></div>
-                          </div>
-                        </div>
-                     </div>
-                     <div class="testimonial-4-shape-1">
-                        <img class="layer" data-depth="0.3" src="assets/img/team/testimonial-4-shape-1.png" alt="">
-                     </div>
-                     <div class="testimonial-4-shape-2">
-                        <img class="layer" data-depth="0.2" src="assets/img/team/testimonial-4-shape-2.png" alt="">
-                     </div>
-                     <div class="testimonial-4-shape-3">
-                        <img class="layer" data-depth="0.1" src="assets/img/team/testimonial-4-shape-3.png" alt="">
-                     </div>
-                     <div class="testimonial-4-shape-4 d-sm-block">
-                        <img class="layer" data-depth="0.2" src="assets/img/team/testimonial-4-shape-4.png" alt="">
-                     </div>
-                     <div class="testimonial-4-shape-5 d-sm-block">
-                        <img class="layer" data-depth="0.1" src="assets/img/team/testimonial-4-shape-5.png" alt="">
-                     </div>
-                     <div class="testimonial-4-shape-6">
-                        <img class="layer" data-depth="0.3" src="assets/img/team/testimonial-4-shape-6.png" alt="">
-                     </div>
-                  </div>
-               </div>
-               <div class="col-lg-6">
-                  <div class="tp-testimonial-4 pb-60">
-                     <div class="testimonial-4-wrap mb-40 pl-70">
-                        <div class="section-wrapper mb-50">
-                           <span>Testimonials</span>
-                           <h5 class="section-title-4 section-title-4-2">What Clients Say</h5>
-                        </div>
-                        <div class="testimonial-4-wrapper tptestimonial-4-active">
-                           <div class="tptestimonial-4-item">
-                              <div class="tptestimonial-4-rating d-flex align-items-center mb-25">
-                                 <div class="tptestimonial-4-rating-img mr-30">
-                                    <img src="assets/img/shape/testimonial-4-shape-2.png" alt="">
-                                 </div>
-                                 <div class="review-star">
-                                    <i class="fa-sharp fa-solid fa-star-sharp"></i>
-                                    <i class="fa-sharp fa-solid fa-star-sharp"></i>
-                                    <i class="fa-sharp fa-solid fa-star-sharp"></i>
-                                    <i class="fa-sharp fa-solid fa-star-sharp"></i>
-                                    <i class="fa-sharp fa-solid fa-star-sharp"></i>
-                                 </div>
-                              </div>
-                              <div class="tptestimonial-4-content d-flex">
-                                 <div class="tptestimonial-4-icon mr-20">
-                                    <img src="assets/img/shape/quation-4.png" alt="">
-                                 </div>
-                                 <div class="tptestimonial-4-text">
-                                    <p>
-                                       As a strategy consultancy, we’re constantly multiple
-                                       projects which meant we had little resources left our
-                                       online marketing. we were also reluctant to partner
-                                       with marketing agencies as most package.!
-                                    </p>
-                                    <div class="tptestimonial-4-author">
-                                       <h4 class="title">Nathalie Grossman</h4>
-                                       <span>CEO of Advisor Fuel</span>
-                                    </div>
-                                 </div>
-                              </div>
-                           </div>
-                           <div class="tptestimonial-4-item">
-                              <div class="tptestimonial-4-rating d-flex align-items-center mb-25">
-                                 <div class="tptestimonial-4-rating-img mr-30">
-                                    <img src="assets/img/shape/testimonial-4-shape-2.png" alt="">
-                                 </div>
-                                 <div class="review-star">
-                                    <i class="fa-sharp fa-solid fa-star-sharp"></i>
-                                    <i class="fa-sharp fa-solid fa-star-sharp"></i>
-                                    <i class="fa-sharp fa-solid fa-star-sharp"></i>
-                                    <i class="fa-sharp fa-solid fa-star-sharp"></i>
-                                    <i class="fa-sharp fa-solid fa-star-sharp"></i>
-                                 </div>
-                              </div>
-                              <div class="tptestimonial-4-content d-flex">
-                                 <div class="tptestimonial-4-icon mr-20">
-                                    <img src="assets/img/shape/quation-4.png" alt="">
-                                 </div>
-                                 <div class="tptestimonial-4-text">
-                                    <p>
-                                       As a strategy consultancy, we’re constantly multiple
-                                       projects which meant we had little resources left our
-                                       online marketing. we were also reluctant to partner
-                                       with marketing agencies as most package.!
-                                    </p>
-                                    <div class="tptestimonial-4-author">
-                                       <h4 class="title">Nathalie Grossman</h4>
-                                       <span>CEO of Advisor Fuel</span>
-                                    </div>
-                                 </div>
-                              </div>
-                           </div>
-                        </div>
-                     </div>
-                     <div class="testimonial-arrow-4 pl-110">
-                        <div class="tptestimonal-4-nav p-relative">
-                           <button class="prv-testi-case">
-                              <span>
-                                 <svg xmlns="http://www.w3.org/2000/svg" width="8" height="14" fill="none"
-                                    viewBox="0 0 8 14">
-                                    <path fill-rule="evenodd"
-                                       d="M7.707.293a1 1 0 0 1 0 1.414L2.414 7l5.293 5.293a1 1 0 0 1-1.414 1.414l-6-6a1 1 0 0 1 0-1.414l6-6a1 1 0 0 1 1.414 0z"
-                                       fill="currentColor"></path>
-                                 </svg>
-                              </span>
-                           </button>
-                           <button class="next-testi-case">
-                              <span>
-                                 <svg xmlns="http://www.w3.org/2000/svg" width="8" height="14" fill="none"
-                                    viewBox="0 0 8 14">
-                                    <path fill-rule="evenodd"
-                                       d="M.293 13.707a1 1 0 0 1 0-1.414L5.586 7 .293 1.707A1 1 0 1 1 1.707.293l6 6a1 1 0 0 1 0 1.414l-6 6a1 1 0 0 1-1.414 0z"
-                                       fill="currentColor"></path>
-                                 </svg>
-                              </span>
-                           </button>
-                        </div>
-                     </div>
-                  </div>
-               </div>
-            </div>
-         </div>
-      </section>
-      <!-- testimonial-area-end -->
 
       <!-- review-area-start -->
       <div class="review-area tpreview-4 pb-105">

@@ -19181,6 +19181,9 @@ div.price-open {
   line-height: 17px;
   color: var(--tp-common-white);
 }
+.brand-wrapper p{
+  font-family: 'Plus Jakarta Sans', sans-serif !important;
+}
 
 .tpbrand-active-4 .slick-list {
   z-index: 9;
