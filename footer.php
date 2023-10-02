@@ -30,7 +30,7 @@
                      </div>
                      <div class="col-lg-3 col-md-6 col-sm-6">
                         <div class="footer-widget  footer-4-col-2 pl-30 mb-40">
-                           <h4 class="footer-widget-title mb-15">Quick Links</h4>
+                           <h4 class="footer-widget-title mb-15">Useful Links</h4>
                            <div class="footer-widget-link">
                               <ul>
                                  <li><i class="fas fa-arrow-right"></i><a href="index.php">Home</a></li>

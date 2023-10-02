@@ -427,16 +427,15 @@
                <div class="col-lg-6">
                   <div class="optimize-wrapperp pt-35">
                      <div class="section-wrapper mb-40">
-                        <span>Looking for best SEO results?</span>
-                        <h5 class="section-title-4 section-title-4-2">Organic Search <br> Engine Optimisation</h5>
+                        <span>About Our Web Development Services</span>
+                        <h5 class="section-title-4 section-title-4-2"> Web Dev Expertise<br>  Unleashed</h5>
                         <p>
-                           So I said down the you owt to do with me absolutely bladdered, <br> amongst what a plonker brolly baking.
-                        </p>
+                        Unlock the full potential of your online presence with our unparalleled web development expertise.                        </p>
                      </div>
                      <div class="tpdrive-progress mb-25 pr-150">
                         <div class="tpdrive-bar-item mb-30">
                            <h4 class="tpdrive-bar-title mb-15"> 
-                            Desktop Score
+                           Expertise
                            </h4>
                            <div class="tpdrive-bar-progress">
                               <div class="progress">
@@ -448,7 +447,7 @@
                         </div>
                         <div class="tpdrive-bar-item yellow-bar">
                            <h4 class="tpdrive-bar-title mb-15"> 
-                              Development Skill
+                           Innovation
                            </h4>
                            <div class="tpdrive-bar-progress">
                               <div class="progress">
@@ -460,7 +459,7 @@
                         </div>
                      </div>
                      <div class="optimize-btn">
-                        <a class="blue-btn" href="keyword-search.php">Discover More</a>
+                        <a class="blue-btn" href="about-us.php">Discover More</a>
                      </div>
                   </div>
                </div>
@@ -903,14 +902,12 @@
                   <div class="tpcontact-4 mt-30 mb-50">
                      <div class="section-wrapper mb-20">
                         <span>Get in touch</span>
-                        <h5 class="section-title-4 section-title-4-2">Lets work <br>Together</h5>
+                        <h5 class="section-title-4 section-title-4-2">FEATURED WORK</h5>
                      </div>
                      <div class="tpcontact-4-content">
-                        <p>Just tell us your requirements and we will help you!</p>
-                        <a class="phone mb-5" href="tel:0123456789">+(800) 2563 123</a>
-                        <a class="mail mb-35" href="https://html.weblearnbd.net/cdn-cgi/l/email-protection#90f9fef6ffd0f3fffde0f1fee9bef3fffd"><span class="__cf_email__" data-cfemail="157c7b737a55767a7865747b6c3b767a78">[email&#160;protected]</span></a>
+                        <p>A dedicated manager will get to know you and your brand, creating a strategy specific to your goals and work closely with you so your business can grow.</p>
                         <div class="tpcontact-4-content-btn">
-                           <a href="contact.php">Call us Now</a>
+                           <a href="contact-us.php">Call us Now</a>
                         </div>
                      </div>
                   </div>
@@ -923,27 +920,23 @@
                               <div class="row gx-6">
                                  <div class="col-lg-6">
                                     <div class="tpcontact-form-input mb-20">
-                                       <input type="text" placeholder="Full name">
+                                       <input type="text" placeholder="Full name*" required>
                                     </div>
                                  </div>
                                  <div class="col-lg-6">
                                     <div class="tpcontact-form-input mb-20">
-                                       <input type="email" placeholder="Email Address">
-                                    </div>
-                                 </div>
-                                 <div class="col-lg-6">
-                                    <div class="tpcontact-form-input mb-20">
-                                       <input type="text" placeholder="Phone number">
-                                    </div>
-                                 </div>
-                                 <div class="col-lg-6">
-                                    <div class="tpcontact-form-input mb-20">
-                                       <input type="text" placeholder="Website">
+                                       <input type="email" placeholder="Email Address*" required>
                                     </div>
                                  </div>
                                  <div class="col-lg-12">
+                                    <div class="tpcontact-form-input mb-20">
+                                       <input type="text" placeholder="Phone number*" required>
+                                    </div>
+                                 </div>
+                                
+                                 <div class="col-lg-12">
                                     <div class="tpcontact-form-textarea mb-25">
-                                       <textarea placeholder="Message" name="message"></textarea>
+                                       <textarea placeholder="Message(optional)" name="message"></textarea>
                                     </div>
                                  </div>
                               </div>
