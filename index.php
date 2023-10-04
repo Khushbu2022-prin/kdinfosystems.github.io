@@ -1,8 +1,6 @@
 <?php include("header1.php"); ?>
 <main>
-
-      <!-- banner-area-start -->
-      <div class="banner-area banner-4-spaces pt-150 pb-195">
+   <div class="banner-area banner-4-spaces pt-150 pb-195">
          <div class="container">
             <div class="row">
                <div class="col-xxl-7 col-xl-10 col-lg-7">
@@ -35,7 +33,7 @@
                            </div>
                            <div class="contact-4-text">
                               <span>Got Questions?</span>
-                              <a href="tel:+8002563123">+800 2563 123</a>
+                              <a href="tel:+91816914375">+91816914375</a>
                            </div>
                         </div>
                      </div>
@@ -78,7 +76,7 @@
             <div class="row">
                <div class="col-lg-12">
                   <div class="section-wrapper text-center mb-60">
-                     <span>Why services Us</span>
+                     <span> Services </span>
                      <h5 class="section-title-4">Discover Our Services
                      </h5>
                   </div>
@@ -313,7 +311,7 @@
                   <div class="feature-content-4 pl-70">
                      <div class="section-wrapper mb-40">
                         <!-- <span>Let us do the work</span> -->
-                        <h5 class="section-title-4 section-title-4-2">Client-Centric Web Solutions</h5>
+                        <h5 class="section-title-4 section-title-4-2">How we do It</h5>
                      </div>
                      <ul class="feature-list-4">
                         <li>
@@ -337,8 +335,9 @@
                                  </div>
                               </div>
                               <div class="feature-list-4-content">
-                                 <h4 class="title">Customized Solutions</h4>
-                                 <p>We craft unique websites tailored to your <br> specific business needs, ensuring a personalized <br> online presence that sets you apart.
+                                 <h4 class="title">Define Your Goals</h4>
+                                 <p>Determine the purpose of your website. Is it for personal use, business, e-commerce, blogging, or something else?
+
 
                                    </p>
                               </div>
@@ -370,8 +369,10 @@
                                  </div>
                               </div>
                               <div class="feature-list-4-content">
-                                 <h4 class="title">User-Centric Design</h4>
-                                 <p> Our focus is on creating websites that prioritize user experience, resulting in intuitive and engaging interfaces that captivate your audience.
+                                 <h4 class="title">Market Research</h4>
+                                 <p>  Market research provides valuable insights into consumer behavior, market trends, and competition, helping businesses make informed strategic decisions for growth.
+
+
 
                                  </p>
                               </div>
@@ -403,9 +404,9 @@
                                  </div>
                               </div>
                               <div class="feature-list-4-content">
-                                 <h4 class="title">   Cutting-Edge Technology              
+                                 <h4 class="title">Design & Develop Your Website             
                                  </h4>
-                                 <p>We harness the latest web technologies to deliver websites that are not only visually appealing but also secure, fast, and adaptable to changing demands.
+                                 <p>Transform your vision into reality with our expert web design and development services, creating stunning, responsive websites that drive results.
 
                                  </p>
                               </div>
@@ -483,13 +484,26 @@
       <!-- counter-area-start -->
       <section class="counter-area pb-140">
          <div class="container">
+           
             <div class="counter-bg-4 p-relative fix">
+
                <div class="counter-shape-4  d-none d-md-block">
                   <img src="assets/img/shape/counter-shape-4-1.png" alt="" class="counter-shape-4-1">
                   <img src="assets/img/shape/counter-shape-4-2.png" alt="" class="counter-shape-4-2">
                   <img src="assets/img/shape/counter-shape-4-3.png" alt="" class="counter-shape-4-3">
                   <img src="assets/img/shape/counter-shape-4-4.png" alt="" class="counter-shape-4-4">
                   <img src="assets/img/shape/counter-shape-4-5.png" alt="" class="counter-shape-4-5">
+               </div>
+               <div class="row">
+                  <div class="col-lg-12">
+                     <div class="title-area">
+                        <h2>
+                           Did You Know?
+                        </h2>
+                        <p>Whether you’re considering a website upgrade or a full-blown overhaul,<br>
+                           here are some statistics that might prove helpful in the process:</p>
+                     </div>
+                  </div>
                </div>
                <div class="counter-wrapper d-flex align-items-center justify-content-between">
                   <div class="counter-item-4 d-flex">
@@ -505,9 +519,9 @@
                      </div>
                      <div class="counter-item-4-content">
                         <h3 class="counter-item-4-count">
-                           <span data-purecounter-duration="1" data-purecounter-end="120"  class="purecounter">120</span>+
+                           <span data-purecounter-duration="1" data-purecounter-end="87"  class="purecounter">87</span>%
                         </h3>
-                        <p>Successful Projects</p>
+                        <p>87% of customers want a personalized shopping experience</p>
                      </div>
                   </div>
                   <div class="counter-item-4 d-flex">
@@ -520,9 +534,9 @@
                      </div>
                      <div class="counter-item-4-content">
                         <h3 class="counter-item-4-count">
-                           <span data-purecounter-duration="1" data-purecounter-end="180"  class="purecounter">180</span>+
+                           <span data-purecounter-duration="1" data-purecounter-end="48"  class="purecounter">48</span>%
                         </h3>
-                        <p>Happy Customers</p>
+                        <p>48% of people believe that a website’s design determines a business’s credibility</p>
                      </div>
                   </div>
                   <div class="counter-item-4 d-flex">
@@ -540,350 +554,39 @@
                      </div>
                      <div class="counter-item-4-content">
                         <h3 class="counter-item-4-count">
-                           <span data-purecounter-duration="1" data-purecounter-end="64"  class="purecounter">64</span>+
+                           <span data-purecounter-duration="1" data-purecounter-end="75"  class="purecounter">75</span>%
                         </h3>
-                        <p>Team Members</p>
+                        <p>75% of internet users prefer a mobile-friendly website</p>
+                     </div>
+                  </div>
+                  <div class="counter-item-4 d-flex">
+                     <div class="counter-item-4-icon">
+                        <i>
+                           <svg width="24" height="24" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg">
+                              <path d="M18.6282 6.6753C18.5621 6.6643 18.4849 6.6643 18.4188 6.6753C16.8982 6.6203 15.686 5.37746 15.686 3.83765C15.686 2.26484 16.9533 1 18.529 1C20.1048 1 21.372 2.27584 21.372 3.83765C21.361 5.37746 20.1488 6.6203 18.6282 6.6753Z" stroke="white" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/>
+                              <path d="M17.493 14.6823C19.0027 14.9352 20.6666 14.6713 21.8346 13.8904C23.3883 12.8565 23.3883 11.1627 21.8346 10.1288C20.6556 9.34795 18.9696 9.08397 17.46 9.34794" stroke="white" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/>
+                              <path d="M5.37173 6.6753C5.43785 6.6643 5.51498 6.6643 5.5811 6.6753C7.10176 6.6203 8.31388 5.37746 8.31388 3.83765C8.31388 2.26484 7.04666 1 5.47091 1C3.89515 1 2.62793 2.27584 2.62793 3.83765C2.63895 5.37746 3.85107 6.6203 5.37173 6.6753Z" stroke="white" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/>
+                              <path d="M6.50688 14.6823C4.99724 14.9352 3.33333 14.6713 2.16529 13.8904C0.61157 12.8565 0.61157 11.1627 2.16529 10.1288C3.34435 9.34795 5.0303 9.08397 6.53994 9.34794" stroke="white" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/>
+                              <path d="M12.0193 14.8911C11.9532 14.8801 11.876 14.8801 11.8099 14.8911C10.2893 14.8361 9.07715 13.5933 9.07715 12.0535C9.07715 10.4807 10.3444 9.21582 11.9201 9.21582C13.4959 9.21582 14.7631 10.4917 14.7631 12.0535C14.7521 13.5933 13.54 14.8471 12.0193 14.8911Z" stroke="white" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/>
+                              <path d="M8.81226 18.3558C7.25854 19.3897 7.25854 21.0835 8.81226 22.1174C10.5753 23.2942 13.4624 23.2942 15.2255 22.1174C16.7792 21.0835 16.7792 19.3897 15.2255 18.3558C13.4734 17.19 10.5753 17.19 8.81226 18.3558Z" stroke="white" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/>
+                           </svg>
+                        </i>
+                     </div>
+                     <div class="counter-item-4-content">
+                        <h3 class="counter-item-4-count">
+                           <span data-purecounter-duration="1" data-purecounter-end="42"  class="purecounter">42</span>%
+                        </h3>
+                        <p>42% of consumers say they’ll leave a website that poorly functions</p>
                      </div>
                   </div>
                </div>
             </div>
          </div>
       </section>
-      <!-- counter-area-end -->
-
-      <!-- portfolio-area-start -->
-      <section class="portfolio-area portfolio-4-bg pb-140 mb-115 fix p-relative">
-         <div class="portfolio-4-main-bg-shape">
-            <img src="assets/img/shape/portfolio-shape-bg-4.png" alt="">
-         </div>
-         <div class="container">
-            <div class="row">
-               <div class="col-lg-5">
-                  <div class="portfolio-4-wrapper">
-                     <div class="portfolio-4 mt-20">
-                        <div class="section-wrapper mb-20">
-                           <span>Our Case Studies</span>
-                           <h5 class="section-title-4 section-title-4-2">Creative <br> Works we done</h5>
-                        </div>
-                     </div>
-                     <div class="portfolio-tab-4 mb-35">
-                        <div class="nav flex-column nav-pills me-3" id="v-pills-tab" role="tablist" aria-orientation="vertical">
-                           <button class="nav-link " id="v-pills-home-tab" data-bs-toggle="pill" data-bs-target="#v-pills-home" type="button" role="tab" aria-controls="v-pills-home" aria-selected="false">All Work</button>
-                           <button class="nav-link active" id="v-pills-profile-tab" data-bs-toggle="pill" data-bs-target="#v-pills-profile" type="button" role="tab" aria-controls="v-pills-profile" aria-selected="true">Marketing</button>
-                           <button class="nav-link" id="v-pills-messages-tab" data-bs-toggle="pill" data-bs-target="#v-pills-messages" type="button" role="tab" aria-controls="v-pills-messages" aria-selected="false">Web Design</button>
-                           <button class="nav-link" id="v-pills-design-tab" data-bs-toggle="pill" data-bs-target="#v-pills-design" type="button" role="tab" aria-controls="v-pills-design" aria-selected="false">Branding</button>
-                         </div>
-                     </div>
-                     <div class="nav-tab-slider-4">
-                        <div class="tpnav-tab-4 p-relative d-none">
-                           <button class="prv-nav-tab">
-                              <span>
-                                 <svg xmlns="http://www.w3.org/2000/svg" width="8" height="14" fill="none"
-                                    viewBox="0 0 8 14">
-                                    <path fill-rule="evenodd"
-                                       d="M7.707.293a1 1 0 0 1 0 1.414L2.414 7l5.293 5.293a1 1 0 0 1-1.414 1.414l-6-6a1 1 0 0 1 0-1.414l6-6a1 1 0 0 1 1.414 0z"
-                                       fill="currentColor"></path>
-                                 </svg>
-                              </span>
-                           </button>
-                           <button class="next-nav-tab">
-                              <span>
-                                 <svg xmlns="http://www.w3.org/2000/svg" width="8" height="14" fill="none"
-                                    viewBox="0 0 8 14">
-                                    <path fill-rule="evenodd"
-                                       d="M.293 13.707a1 1 0 0 1 0-1.414L5.586 7 .293 1.707A1 1 0 1 1 1.707.293l6 6a1 1 0 0 1 0 1.414l-6 6a1 1 0 0 1-1.414 0z"
-                                       fill="currentColor"></path>
-                                 </svg>
-                              </span>
-                           </button>
-                        </div>
-                     </div>
-                  </div>
-               </div>
-               <div class="col-lg-7">
-                  <div class="tab-content-4">
-                     <div class="tab-content" id="v-pills-tabContent">
-                        <div class="tab-pane fade" id="v-pills-home" role="tabpanel" aria-labelledby="v-pills-home-tab">
-                           <div class="protfolio-wrapper-4 portfolio-4-active">
-                              <div class="portfolio-4-item-single">
-                                 <div class="portfolio-4-item p-relative">
-                                    <div class="portfolio-4-thumb">
-                                       <img src="assets/img/portfolio/portfolio-4/portfolio-bg-3.jpg" alt="">
-                                    </div>
-                                    <div class="portfolio-4-content">
-                                       <div class="portfolio-4-content-top">
-                                          <span>WEB DESIGN</span>
-                                          <h4 class="title">Tips for the good UI design</h4>
-                                       </div>
-                                       <div class="portfolio-4-content-bottom">
-                                          <a href="portfolio-details.php">View Case Study <i class="fa-light fa-plus"></i></a>
-                                       </div> 
-                                    </div>
-                                 </div>
-                              </div>
-                              <div class="portfolio-4-item-single">
-                                 <div class="portfolio-4-item p-relative">
-                                    <div class="portfolio-4-thumb">
-                                       <img src="assets/img/portfolio/portfolio-4/portfolio-bg-4.jpg" alt="">
-                                    </div>
-                                    <div class="portfolio-4-content">
-                                       <div class="portfolio-4-content-top">
-                                          <span>WEB DESIGN</span>
-                                          <h4 class="title">Online Media Management</h4>
-                                       </div>
-                                       <div class="portfolio-4-content-bottom">
-                                          <a href="portfolio-details.php">View Case Study <i class="fa-light fa-plus"></i></a>
-                                       </div> 
-                                    </div>
-                                 </div>
-                              </div>
-                              <div class="portfolio-4-item-single">
-                                 <div class="portfolio-4-item p-relative">
-                                    <div class="portfolio-4-thumb">
-                                       <img src="assets/img/portfolio/portfolio-4/portfolio-bg-8.jpg" alt="">
-                                    </div>
-                                    <div class="portfolio-4-content">
-                                       <div class="portfolio-4-content-top">
-                                          <span>WEB DESIGN</span>
-                                          <h4 class="title">Tips for the good UI design</h4>
-                                       </div>
-                                       <div class="portfolio-4-content-bottom">
-                                          <a href="portfolio-details.php">View Case Study <i class="fa-light fa-plus"></i></a>
-                                       </div> 
-                                    </div>
-                                 </div>
-                              </div>
-                           </div>
-                        </div>
-                        <div class="tab-pane fade show active" id="v-pills-profile" role="tabpanel" aria-labelledby="v-pills-profile-tab">
-                           <div class="protfolio-wrapper-4 portfolio-4-active">
-                              <div class="portfolio-4-item-single">
-                                 <div class="portfolio-4-item p-relative">
-                                    <div class="portfolio-4-thumb">
-                                       <img src="assets/img/portfolio/portfolio-4/portfolio-bg-2.jpg" alt="">
-                                    </div>
-                                    <div class="portfolio-4-content">
-                                       <div class="portfolio-4-content-top">
-                                          <span>WEB DESIGN</span>
-                                          <h4 class="title">Tips for the good UI design</h4>
-                                       </div>
-                                       <div class="portfolio-4-content-bottom">
-                                          <a href="portfolio-details.php">View Case Study <i class="fa-light fa-plus"></i></a>
-                                       </div> 
-                                    </div>
-                                 </div>
-                              </div>
-                              <div class="portfolio-4-item-single">
-                                 <div class="portfolio-4-item p-relative">
-                                    <div class="portfolio-4-thumb">
-                                       <img src="assets/img/portfolio/portfolio-4/portfolio-bg-1.jpg" alt="">
-                                    </div>
-                                    <div class="portfolio-4-content">
-                                       <div class="portfolio-4-content-top">
-                                          <span>WEB DESIGN</span>
-                                          <h4 class="title">Online Media Management</h4>
-                                       </div>
-                                       <div class="portfolio-4-content-bottom">
-                                          <a href="portfolio-details.php">View Case Study <i class="fa-light fa-plus"></i></a>
-                                       </div> 
-                                    </div>
-                                 </div>
-                              </div>
-                              <div class="portfolio-4-item-single">
-                                 <div class="portfolio-4-item p-relative">
-                                    <div class="portfolio-4-thumb">
-                                       <img src="assets/img/portfolio/portfolio-4/portfolio-bg-3.jpg" alt="">
-                                    </div>
-                                    <div class="portfolio-4-content">
-                                       <div class="portfolio-4-content-top">
-                                          <span>WEB DESIGN</span>
-                                          <h4 class="title">Tips for the good UI design</h4>
-                                       </div>
-                                       <div class="portfolio-4-content-bottom">
-                                          <a href="portfolio-details.php">View Case Study <i class="fa-light fa-plus"></i></a>
-                                       </div> 
-                                    </div>
-                                 </div>
-                              </div>
-                           </div>
-                        </div>
-                        <div class="tab-pane fade" id="v-pills-messages" role="tabpanel" aria-labelledby="v-pills-messages-tab">
-                           <div class="protfolio-wrapper-4 portfolio-4-active">
-                              <div class="portfolio-4-item-single">
-                                 <div class="portfolio-4-item p-relative">
-                                    <div class="portfolio-4-thumb">
-                                       <img src="assets/img/portfolio/portfolio-4/portfolio-bg-5.jpg" alt="">
-                                    </div>
-                                    <div class="portfolio-4-content">
-                                       <div class="portfolio-4-content-top">
-                                          <span>WEB DESIGN</span>
-                                          <h4 class="title">Tips for the good UI design</h4>
-                                       </div>
-                                       <div class="portfolio-4-content-bottom">
-                                          <a href="portfolio-details.php">View Case Study <i class="fa-light fa-plus"></i></a>
-                                       </div> 
-                                    </div>
-                                 </div>
-                              </div>
-                              <div class="portfolio-4-item-single">
-                                 <div class="portfolio-4-item p-relative">
-                                    <div class="portfolio-4-thumb">
-                                       <img src="assets/img/portfolio/portfolio-4/portfolio-bg-6.jpg" alt="">
-                                    </div>
-                                    <div class="portfolio-4-content">
-                                       <div class="portfolio-4-content-top">
-                                          <span>WEB DESIGN</span>
-                                          <h4 class="title">Online Media Management</h4>
-                                       </div>
-                                       <div class="portfolio-4-content-bottom">
-                                          <a href="portfolio-details.php">View Case Study <i class="fa-light fa-plus"></i></a>
-                                       </div> 
-                                    </div>
-                                 </div>
-                              </div>
-                              <div class="portfolio-4-item-single">
-                                 <div class="portfolio-4-item p-relative">
-                                    <div class="portfolio-4-thumb">
-                                       <img src="assets/img/portfolio/portfolio-4/portfolio-bg-2.jpg" alt="">
-                                    </div>
-                                    <div class="portfolio-4-content">
-                                       <div class="portfolio-4-content-top">
-                                          <span>WEB DESIGN</span>
-                                          <h4 class="title">Tips for the good UI design</h4>
-                                       </div>
-                                       <div class="portfolio-4-content-bottom">
-                                          <a href="portfolio-details.php">View Case Study <i class="fa-light fa-plus"></i></a>
-                                       </div> 
-                                    </div>
-                                 </div>
-                              </div>
-                           </div>
-                        </div>
-                        <div class="tab-pane fade" id="v-pills-design" role="tabpanel" aria-labelledby="v-pills-design-tab">
-                           <div class="protfolio-wrapper-4 portfolio-4-active">
-                              <div class="portfolio-4-item-single">
-                                 <div class="portfolio-4-item p-relative">
-                                    <div class="portfolio-4-thumb">
-                                       <img src="assets/img/portfolio/portfolio-4/portfolio-bg-7.jpg" alt="">
-                                    </div>
-                                    <div class="portfolio-4-content">
-                                       <div class="portfolio-4-content-top">
-                                          <span>WEB DESIGN</span>
-                                          <h4 class="title">Tips for the good UI design</h4>
-                                       </div>
-                                       <div class="portfolio-4-content-bottom">
-                                          <a href="portfolio-details.php">View Case Study <i class="fa-light fa-plus"></i></a>
-                                       </div> 
-                                    </div>
-                                 </div>
-                              </div>
-                              <div class="portfolio-4-item-single">
-                                 <div class="portfolio-4-item p-relative">
-                                    <div class="portfolio-4-thumb">
-                                       <img src="assets/img/portfolio/portfolio-4/portfolio-bg-8.jpg" alt="">
-                                    </div>
-                                    <div class="portfolio-4-content">
-                                       <div class="portfolio-4-content-top">
-                                          <span>WEB DESIGN</span>
-                                          <h4 class="title">Online Media Management</h4>
-                                       </div>
-                                       <div class="portfolio-4-content-bottom">
-                                          <a href="portfolio-details.php">View Case Study <i class="fa-light fa-plus"></i></a>
-                                       </div> 
-                                    </div>
-                                 </div>
-                              </div>
-                              <div class="portfolio-4-item-single">
-                                 <div class="portfolio-4-item p-relative">
-                                    <div class="portfolio-4-thumb">
-                                       <img src="assets/img/portfolio/portfolio-4/portfolio-bg-1.jpg" alt="">
-                                    </div>
-                                    <div class="portfolio-4-content">
-                                       <div class="portfolio-4-content-top">
-                                          <span>WEB DESIGN</span>
-                                          <h4 class="title">Tips for the good UI design</h4>
-                                       </div>
-                                       <div class="portfolio-4-content-bottom">
-                                          <a href="portfolio-details.php">View Case Study <i class="fa-light fa-plus"></i></a>
-                                       </div> 
-                                    </div>
-                                 </div>
-                              </div>
-                           </div>
-                        </div>
-                     </div>
-                  </div>
-               </div>
-            </div>
-         </div>
-      </section>
-      <!-- portfolio-area-end -->
+     
 
 
 
-      <!-- review-area-start -->
-      <div class="review-area tpreview-4 pb-105">
-         <div class="container">
-            <div class="tpreview-4-wrapper pb-30 mb-30 pt-55">
-               <div class="row">
-                  <div class="col-lg-4 col-md-6">
-                     <div class="tpreview-4 text-center mb-30">
-                        <div class="tpreview-4-icon mb-15">
-                           <img src="assets/img/icon/review-4-logo-1.png" alt="">
-                        </div>
-                        <div class="tpreview-4-content">
-                           <p>4.58 out of 5 stars from 1,045 reviews</p>
-                           <div class="review-star">
-                              <i class="fa-sharp fa-solid fa-star-sharp"></i>
-                              <i class="fa-sharp fa-solid fa-star-sharp"></i>
-                              <i class="fa-sharp fa-solid fa-star-sharp"></i>
-                              <i class="fa-sharp fa-solid fa-star-sharp"></i>
-                              <i class="fa-sharp fa-solid fa-star-sharp"></i>
-                           </div>
-                        </div>
-                     </div>
-                  </div>
-                  <div class="col-lg-4 col-md-6">
-                     <div class="tpreview-4 review-side-border text-center mb-30">
-                        <div class="tpreview-4-icon mb-15">
-                           <img src="assets/img/icon/review-4-logo-2.png" alt="">
-                        </div>
-                        <div class="tpreview-4-content">
-                           <p>4.58 out of 5 stars from 1,045 reviews</p>
-                           <div class="review-star">
-                              <i class="fa-sharp fa-solid fa-star-sharp"></i>
-                              <i class="fa-sharp fa-solid fa-star-sharp"></i>
-                              <i class="fa-sharp fa-solid fa-star-sharp"></i>
-                              <i class="fa-sharp fa-solid fa-star-sharp"></i>
-                              <i class="fa-sharp fa-solid fa-star-sharp"></i>
-                           </div>
-                        </div>
-                     </div>
-                  </div>
-                  <div class="col-lg-4 col-md-6">
-                     <div class="tpreview-4 text-center mb-30">
-                        <div class="tpreview-4-icon mb-15">
-                           <img src="assets/img/icon/review-4-logo-3.png" alt="">
-                        </div>
-                        <div class="tpreview-4-content">
-                           <p>4.58 out of 5 stars from 1,045 reviews</p>
-                           <div class="review-star">
-                              <i class="fa-sharp fa-solid fa-star-sharp"></i>
-                              <i class="fa-sharp fa-solid fa-star-sharp"></i>
-                              <i class="fa-sharp fa-solid fa-star-sharp"></i>
-                              <i class="fa-sharp fa-solid fa-star-sharp"></i>
-                              <i class="fa-sharp fa-solid fa-star-sharp"></i>
-                           </div>
-                        </div>
-                     </div>
-                  </div>
-               </div>
-            </div>
-         </div>
-      </div>
-      <!-- review-area-end -->
-
-      <!-- contact-area-start -->
       <section class="contact-area p-relative contact-bg-4 pb-65 mb-60">
          <div class="contact-main-shape-bg d-none d-md-block">
             <img src="assets/img/bg/contact-4-bg.jpg" alt="">
@@ -1012,49 +715,7 @@
             </div>
          </div>
       </section>
-      <!-- blog-area-end -->
-
-      <!-- award-area-start -->
-      <section class="award-area pb-80">
-         <div class="container">
-            <div class="row">
-               <div class="col-lg-4 col-md-6">
-                  <div class="tpaward text-center mb-30">
-                     <div class="tpaward-icon mb-15">
-                        <img src="assets/img/shape/award-shape-1.png" alt="">
-                     </div>
-                     <div class="tpaward-content">
-                        <h4 class="title mb-5">Best of the Year</h4>
-                        <p>Best Apps - Apple</p>
-                     </div>
-                  </div>
-               </div>
-               <div class="col-lg-4 col-md-6">
-                  <div class="tpaward tpaward-border text-center mb-30">
-                     <div class="tpaward-icon mb-15">
-                        <img src="assets/img/shape/award-shape-2.png" alt="">
-                     </div>
-                     <div class="tpaward-content">
-                        <h4 class="title mb-5">Best of the Year</h4>
-                        <p>Best Apps - Google</p>
-                     </div>
-                  </div>
-               </div>
-               <div class="col-lg-4 col-md-6">
-                  <div class="tpaward text-center mb-30">
-                     <div class="tpaward-icon mb-15">
-                        <img src="assets/img/shape/award-shape-3.png" alt="">
-                     </div>
-                     <div class="tpaward-content">
-                        <h4 class="title mb-5">Best of the Year</h4>
-                        <p>Innovation by Design - Fast Company</p>
-                     </div>
-                  </div>
-               </div>
-            </div>
-         </div>
-      </section>
-      <!-- award-area-end -->
+     
    </main>
 
     <?php include("footer.php"); ?>

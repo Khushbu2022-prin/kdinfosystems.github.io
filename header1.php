@@ -23,18 +23,14 @@
 </head>
 <style>
    .top-header-deatils{
-      display: flex;
-      gap: 15px;
+      display: flex !important;
+      gap: 15px !important;
    }
 </style>
-
 <body>
-
- 
    <div id="loading">
       <div id="loading-center">
          <div id="loading-center-absolute">
-            <!-- loading content here -->
             <div class="tp-preloader-content">
                <div class="tp-preloader-logo">
                   <div class="tp-preloader-circle">
@@ -51,9 +47,6 @@
          </div>
       </div>  
    </div>
-   <!-- pre loader area end -->
-
-   <!-- back to top start -->
    <div class="back-to-top-wrapper">
       <button id="back_to_top" type="button" class="back-to-top-btn">
          <svg width="12" height="7" viewBox="0 0 12 7" fill="none" xmlns="http://www.w3.org/2000/svg">
@@ -62,9 +55,6 @@
          </svg>
       </button>
    </div>
-   <!-- back to top end -->
-
-   <!-- header-area-start -->
    <header>
       <div class="tptransparent__header-4">
          <div class="header-top d-none d-sm-block">
@@ -90,25 +80,7 @@
                            <a href="#"><i class="fa-brands fa-instagram"></i></a>
                            <a href="#"><i class="fa-brands fa-linkedin"></i></a>
                         </div>
-                        <div class="lang-menu">
-                           <div class="selected-lang" id="selected-lang">
-                              English
-                           </div>
-                           <ul id="lang-options" style="display: none;">
-                              <li>
-                                 <a href="#" class="de">German</a>
-                              </li>
-                              <li>
-                                 <a href="#" class="en">English</a>
-                              </li>
-                              <li>
-                                 <a href="#" class="fr">French</a>
-                              </li>
-                              <li>
-                                 <a href="#" class="ae">Arabic</a>
-                              </li>
-                           </ul>
-                        </div>
+                      
                      </div>
                   </div>
                </div>

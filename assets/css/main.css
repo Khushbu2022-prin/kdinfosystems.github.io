@@ -18751,6 +18751,7 @@ div.price-open {
   line-height: 14px;
   color: var(--tp-common-white);
   margin-bottom: 0;
+  text-align: center;
 }
 .counter-item-4-count {
   font-family: var(--tp-ff-jakarta);
@@ -18760,6 +18761,7 @@ div.price-open {
   line-height: 30px;
   color: var(--tp-common-white);
   margin-bottom: 13px;
+  text-align: center;
 }
 
 @media (max-width: 767px) {
@@ -22705,5 +22707,20 @@ div.price-open {
 .lang-menu:hover ul{
   display: block;
 }
+.counter-area .title-area h2{
+  color: #ffffff;
+  font-size: 50px;
+  font-weight: 800;
+  text-align: center;
+}
+.counter-area .title-area p{
+  color: #ffffff;
+  text-align: center;
+  font-size: 16px;
+  font-weight: 600;
+  margin: 20px 0 50px;
+}
+
+
 
 /*# sourceMappingURL=main.css.map */
