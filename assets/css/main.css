@@ -154,7 +154,7 @@
   --tp-theme-green: #59BA41;
   --tp-theme-apple: #F5F1EB;
   --tp-theme-dark-blue: #1E2B8A;
-  --tp-theme-blue: #775AFC;
+  --tp-theme-blue: #662549;
   --tp-border-1: #F0F1F4;
   --tp-border-5: #000;
 }
@@ -2761,7 +2761,7 @@ div.test img {
   font-weight: 600;
   font-size: 18px;
   line-height: 1;
-  background: linear-gradient(90deg, #501E9C 0%, #A44CEE 43.75%, #FF847F 100%);
+  background: linear-gradient(90deg, #1D1A39 0%, #451952 43.75%, #662549 100%);
   -webkit-background-clip: text;
   -webkit-text-fill-color: transparent;
   background-clip: text;
@@ -8866,7 +8866,7 @@ blockquote cite::before {
   }
 }
 .banner-4-title b {
-  background: linear-gradient(90deg, #501E9C 0%, #A44CEE 43.75%, #FF847F 100%);
+  background: linear-gradient(90deg, #1D1A39 0%, #451952 43.75%, #662549 100%);
   -webkit-background-clip: text;
   -webkit-text-fill-color: transparent;
   background-clip: text;
@@ -9875,15 +9875,15 @@ blockquote cite::before {
 }
 .prv-testi-case:hover span,
 .next-testi-case:hover span {
-  background: #775AFC;
+  background: #662549;
 }
 .prv-testi-case:hover span path,
 .next-testi-case:hover span path {
-  fill: #775AFC;
+  fill: #662549;
 }
 .prv-testi-case span::before,
 .next-testi-case span::before {
-  border: 1px solid #775AFC;
+  border: 1px solid #662549;
 }
 
 /*----------------------------------------*/
@@ -12320,7 +12320,7 @@ div.price-open {
   font-family: var(--tp-ff-jakarta);
   font-weight: 600;
   font-size: 18px;
-  color: #FF847F;
+  color: #662549;
   transform: translateY(18px);
   margin-left: 22px;
   background-color: #fff;
@@ -12332,7 +12332,7 @@ div.price-open {
   height: 8px;
   width: 8px;
   border-radius: 50%;
-  background: #FF847F;
+  background: #662549;
   display: inline-block;
   margin-right: 15px;
   position: relative;
@@ -12358,10 +12358,10 @@ div.price-open {
   background: rgba(2, 202, 109, 0.16);
 }
 .pricing-comparison-tag-title-3.pricing-comparison-tag-title {
-  color: #775AFC;
+  color: #662549;
 }
 .pricing-comparison-tag-title-3.pricing-comparison-tag-title span {
-  background: #775AFC;
+  background: #662549;
 }
 .pricing-comparison-tag-title-3.pricing-comparison-tag-title span::before {
   background: rgba(119, 90, 252, 0.16);
@@ -13898,7 +13898,7 @@ div.price-open {
   left: 0;
   height: 100%;
   width: 100%;
-  background: linear-gradient(69.83deg, #501E9C -8.16%, #A44CEE 49.19%, #FF847F 102.99%);
+  background: linear-gradient(69.83deg, #1D1A39 -8.16%, #451952 49.19%, #662549 102.99%);
   mix-blend-mode: normal;
   box-shadow: 0px 20px 40px rgba(36, 7, 66, 0.13);
   border-radius: 20px;
@@ -14701,7 +14701,7 @@ div.price-open {
   border-radius: 100px;
 }
 .tpdrive-bar-item .progress-bar {
-  background-color: #6EC857;
+  background-color: #AE445A;
   border-radius: 100px;
   position: relative;
   overflow: visible;
@@ -14717,7 +14717,7 @@ div.price-open {
   width: 30px;
   height: 30px;
   background-color: var(--tp-common-white);
-  border: 2.5px solid #6EC857;
+  border: 2.5px solid #AE445A;
   box-shadow: 0px 2px 2px rgba(1, 15, 28, 0.12);
   border-radius: 0px 20px 20px 20px;
 }
@@ -15004,7 +15004,7 @@ div.price-open {
   position: relative;
 }
 .keyword-inner-bg {
-  background: linear-gradient(91.91deg, #501E9C 5.01%, #A44CEE 43.79%, #FF847F 93.65%);
+  background: linear-gradient(91.91deg, #1D1A39 5.01%, #451952 43.79%, #662549 93.65%);
   background-position: center;
   background-repeat: repeat;
   background-size: cover;
@@ -16172,15 +16172,15 @@ div.price-open {
 }
 
 .main-bg {
-  color: #39DDB8;
+  color: #AE445A;
 }
 
 .main-bg-2 {
-  color: #905AFF;
+  color: #F39F5A;
 }
 
 .main-bg-3 {
-  color: #FF816C;
+  color: #E8BCB9;
 }
 
 @media (max-width: 767px) {
@@ -17819,7 +17819,7 @@ div.price-open {
   font-weight: 600;
   font-size: 16px;
   line-height: 45px;
-  color: #775AFC;
+  color: #662549;
   position: relative;
 }
 .portfolio-tab-4 .nav-pills .nav-link.active::before, .portfolio-tab-4 .nav-pills .show > .nav-link::before {
@@ -18720,7 +18720,7 @@ div.price-open {
 .counter-bg-4 {
   padding: 45px 180px 45px 180px;
   z-index: 1;
-  background: linear-gradient(90.97deg, #8A4AF8 2.52%, #A14AF8 99.41%);
+  background: linear-gradient(90.97deg, #1D1A39 2.52%, #451952 99.41%);
   box-shadow: 0px 20px 20px rgba(64, 16, 120, 0.18);
   border-radius: 20px;
 }
@@ -19171,7 +19171,7 @@ div.price-open {
 }
 
 .brand-bg-3 {
-  background: linear-gradient(91.91deg, #501E9C 5.01%, #A44CEE 43.79%, #FF847F 93.65%);
+  background: linear-gradient(91.91deg, #1D1A39 5.01%, #451952 43.79%, #662549 93.65%);
 }
 
 .brand-wrapper .title {
