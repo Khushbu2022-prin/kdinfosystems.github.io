@@ -582,7 +582,7 @@ div.test img {
   height: 44px;
   line-height: 44px;
   text-align: center;
-  background: var(--tp-theme-primary);
+  background: #AE445A;
   box-shadow: 0px 8px 16px rgba(3, 4, 28, 0.3);
   color: var(--tp-common-white);
   border-radius: 50%;
@@ -3794,9 +3794,9 @@ div.test img {
   color: var(--tp-theme-blue);
 }
 .header-btn-4 .blue-btn:hover {
-  background-color: #6E51E6;
+  background-color: #F39F5A;
   color: var(--tp-common-white);
-  border: 2px solid #6E51E6;
+  border: 2px solid #F39F5A;
 }
 
 .header-bg-4 {
@@ -7881,6 +7881,15 @@ blockquote cite::before {
 .footer-bg-4 .footer-widget .footer-widget-title{
   color: #FFFFFF;
 }
+.footer-bg-4 .footer-widget .footer-widget-title::after{
+  content: "";
+  display: block;
+  height: 2px;
+  width: 60px;
+  background-color: #AE445A;
+  margin: 15px 0px;
+  border-radius: 5px;
+}
 .footer-bg-4 .footer-widget .footer-widget-link ul {
   list-style-type: none !important;
 }
@@ -7899,6 +7908,15 @@ blockquote cite::before {
 .footer-bg-4 .footer-top {
   border-bottom: none;
   padding-bottom: 25px;
+}
+.footer-bg-4 .footer-top::after{
+  content: "";
+  display:block;
+  width: 100%;
+  height: 1px;
+  background-color: #ab4d60;
+  border-radius: 5PX;
+  box-shadow: 0 2px 1px #ffffff17, 0 4px 2px rgba(255, 253, 253, 0.09), 0 8px 4px rgba(0,0,0,0.09), 0 16px 8px rgba(0,0,0,0.09), 0 32px 16px rgba(0,0,0,0.09);
 }
 
 .fooer-btn-4 .blue-btn {
@@ -14025,7 +14043,7 @@ div.price-open {
   padding: 16px 0;
 }
 .tpcontact-4-box-wrapper .tpcontact-form-submit button:hover {
-  background-color: #6E51E6;
+  background-color: #F39F5A;
 }
 
 .contact-bg-4 {

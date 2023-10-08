@@ -498,10 +498,9 @@
                   <div class="col-lg-12">
                      <div class="title-area">
                         <h2>
-                           Did You Know?
+                           Let's talk about what we can build together
                         </h2>
-                        <p>Whether you’re considering a website upgrade or a full-blown overhaul,<br>
-                           here are some statistics that might prove helpful in the process:</p>
+                        <p>Whatever may be your requirement - be it a simple website design, an ecommerce website - we have a solution for you.</p>
                      </div>
                   </div>
                </div>
