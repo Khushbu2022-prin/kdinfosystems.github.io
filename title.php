@@ -4,6 +4,9 @@ switch($menuactive){
     case 'index.php':
         $title = "KDInfosystem  || Home";
         break;
+    default:
+      $title="Title";
+      break;
 
 }
 

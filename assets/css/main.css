@@ -3601,7 +3601,7 @@ div.test img {
 
 .tptransparent__header {
   position: absolute;
-  top: 0;
+  top: 60px;
   left: 0;
   right: 0;
   z-index: 3;
@@ -7785,6 +7785,7 @@ blockquote cite::before {
   }
 }
 .footer-shape-right-three {
+  padding-top: 150px;
   position: absolute;
   top: -35px;
   right: 55px;
@@ -22738,7 +22739,12 @@ div.price-open {
   font-weight: 600;
   margin: 20px 0 50px;
 }
-
+.about-area {
+  margin-top: 200px;
+}
+.header-top-2{
+  box-shadow: rgba(33, 35, 38, 0.1) 0px 10px 10px -10px;
+}
 
 
 /*# sourceMappingURL=main.css.map */
