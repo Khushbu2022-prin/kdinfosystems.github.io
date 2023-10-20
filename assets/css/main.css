@@ -116,9 +116,9 @@
 
 :root {
   /** @font family declaration */
-  --tp-ff-body: 'Urbanist', sans-serif;
-  --tp-ff-heading: 'Urbanist', sans-serif;
-  --tp-ff-p: 'Urbanist', sans-serif;
+  --tp-ff-body: 'Plus Jakarta Sans', sans-serif;
+  --tp-ff-heading: 'Plus Jakarta Sans', sans-serif;
+  --tp-ff-p: 'Plus Jakarta Sans', sans-serif;
   --tp-ff-fontawesome: "Font Awesome 6 Pro";
   --tp-ff-jakarta: 'Plus Jakarta Sans', sans-serif;
   --tp-ff-dmsans: 'DM Sans', sans-serif;
@@ -2435,17 +2435,17 @@ div.test img {
 }
 
 .tp-accordion .accordion-button:not(.collapsed) {
-  color: var(--tp-theme-green);
+  color: #662549;
   background-color: var(--tp-common-white);
   box-shadow: none;
 }
 .tp-accordion .accordion-button {
   position: relative;
-  font-weight: 500;
-  font-size: 20px;
+  font-weight: 700;
+  font-size: 16px;
   line-height: 1;
   font-family: var(--tp-ff-dmsans);
-  padding: 35px 0px;
+  padding: 20px 0px;
   -webkit-transition: all 0.3s ease-out 0s;
   -moz-transition: all 0.3s ease-out 0s;
   -ms-transition: all 0.3s ease-out 0s;
@@ -2501,7 +2501,7 @@ div.test img {
 .tp-accordion .accordion-button:not(.collapsed)::after {
   background-image: none;
   transform: translateY(-50%) rotate(135deg);
-  color: var(--tp-theme-green);
+  color: #451952;
 }
 .tp-accordion-btn a {
   color: var(--tp-grey-8);
@@ -2511,7 +2511,7 @@ div.test img {
   line-height: 12px;
 }
 .tp-accordion-btn a:hover {
-  color: var(--tp-theme-green);
+  color: #451952;
 }
 .tp-accordion-btn a i {
   font-size: 14px;
@@ -2771,7 +2771,7 @@ div.test img {
 .section-title-4 {
   font-family: var(--tp-ff-jakarta);
   font-weight: 700;
-  font-size: 60px;
+  font-size: 50px;
   line-height: 1.2;
   color: var(--tp-common-11);
 }
@@ -2787,7 +2787,7 @@ div.test img {
 }
 
 .section-title-4-2 {
-  font-size: 50px;
+  font-size: 45px;
 }
 @media only screen and (min-width: 992px) and (max-width: 1199px) {
   .section-title-4-2 {
@@ -7385,8 +7385,8 @@ blockquote cite::before {
   list-style: none;
 }
 .footer-widget-link ul li a {
-  font-weight: 500;
-  font-size: 16px;
+  font-weight: 400;
+  font-size: 14px;
   line-height: 34px;
   letter-spacing: 0.02em;
   color: #e0e0e0;
@@ -7500,7 +7500,7 @@ blockquote cite::before {
 }
 
 .footer-widget-copyright .footer-copyright-ul .copyright-name {
-  color: var(--tp-theme-primary);
+  color: #F39F5A;
   letter-spacing: 0.02em;
   font-weight: 600;
   font-size: 15px;
@@ -17205,13 +17205,13 @@ div.price-open {
   font-family: var(--tp-ff-jakarta);
   font-weight: 500;
   font-size: 16px;
-  color: #4260FF;
+  color: #F39F5A;
   position: relative;
 }
 .about-inner-content span::before {
   content: "";
-  width: 6px;
-  height: 6px;
+  width: 0px;
+  height: 0px;
   border-radius: 50%;
   background-color: var(--tp-theme-primary);
   display: inline-block;

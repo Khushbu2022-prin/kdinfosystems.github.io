@@ -69,9 +69,13 @@
                               
                            </div>
                            <div class="footer-widget-social mt-20">
+                           <h4 class="footer-widget-title mb-20"> Follow Us
+</h4>
                               <a href="#"><i class="fa-brands fa-facebook-f"></i></a>
                               <a href="#"><i class="fa-brands fa-twitter"></i></a>
                               <a  href="#"><i class="fa-brands fa-linkedin-in"></i></a>
+                              
+                              <a href="#"><i class="fa-brands fa-skype"></i></a>
                               <a href="#"><i class="fa-brands fa-instagram"></i></a>
                            </div>
                         </div>
