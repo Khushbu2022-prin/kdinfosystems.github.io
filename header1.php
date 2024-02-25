@@ -106,58 +106,8 @@
                                     
                                  </li>
                                  <li><a href="about-us.php">About Us</a></li>
-                                 <li class="header-services has-dropdown has-mega-menu">
-                                    <a href="#">Services</a>
-                                    <div class="tp-mega-menu tp-submenu submenu">
-                                       <div class="row">
-                                          <div class="col-12">
-                                             <div class="tp-menu-banner">
-                                               
-                                                <ul>
-                                                   <li>
-                                                      <a href="landing-page.php">
-                                                         <span> <img src="assets/img/home/Landing Page.png" alt=""> </span>
-                                                         Landing Page
-                                                      </a>
-                                                   </li>
-                                                   <li>
-                                                      <a href="static-website.php">
-                                                         <span> <img src="assets/img/home/Static Website.png" alt=""> </span>
-                                                         Static Website
-                                                      </a>
-                                                   </li>
-                                                   <li>
-                                                      <a href="wordpress-website.php">
-                                                         <span> <img src="assets/img/home/wordpress.png" alt=""> </span>
-                                                         Wordpress Website
-                                                      </a>
-                                                   </li>
-                                                   <li>
-                                                      <a href="Ecommerce.php">
-                                                         <span> <img src="assets/img/home/ecommerce.png" alt=""> </span>
-                                                         Ecommerce
-                                                      </a>
-                                                   </li>
-                                                   <li>
-                                                      <a href="email-template-signature.php">
-                                                         <span> <img src="assets/img/home/email template.png" alt=""> </span>
-                                                         Email Template/Signature
-                                                      </a>
-                                                   </li>
-                                                   
-                                                   <li>
-                                                      <a href="api-integration.php">
-                                                         <span> <img src="assets/img/home/api integration.png" alt=""> </span>
-                                                         API Integration
-                                                      </a>
-                                                   </li>
-                                                </ul>
-                                             </div>
-                                          </div>
-                                        
-                                       </div>
-                                    </div> 
-                                 </li>
+                                 <li><a href="services.php">Services</a></li>
+                               
                                  <li>
                                     <a href="#">Pricing</a>
                                   
